@@ -66,4 +66,4 @@ We built an **AI-assisted workflow** integrated with AWS services:
 - **Enhanced UI/UX dashboards for editors**  
 
 ## 6. Demo Site
-- **[Try this demo site: it-square.hk](https://it-square.hk)
+- [Try this demo site: it-square.hk](https://it-square.hk)
