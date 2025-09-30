@@ -1,0 +1,474 @@
+{
+  "items": [
+    {
+      "key": "content/posts/2022/02/e7-a7-91-e6-99-ae-e6-95-99-e8-82-b2-e8-81-af-e4-b9-98-e7-b6-b2-e7-b5-a1-e4-bf-9d-e5-ae-89-e6-b5-b7-e6-b4-8b-e5-85-ac-e5-9c-92-e5-8a-a9-e5-9f-b9-e8-82-b2-e5-b0-88-e6-89-8d.md",
+      "title": "科普教育聯乘網絡保安   海洋公園助培育專才",
+      "description": "",
+      "date": "2022-02-25T09:43:14.000Z",
+      "image": "/images/blog/2022/02/fortinet-1024x655.jpg",
+      "tags": [
+        "Cyber Security",
+        "EdTech",
+        "Fortinet",
+        "Start Up",
+        "STEAM",
+        "STEM",
+        "創科圈",
+        "創科廣場",
+        "網絡安全"
+      ],
+      "categories": [
+        "Cyber Security",
+        "EdTech",
+        "Fortinet",
+        "Start Up",
+        "STEAM",
+        "STEM",
+        "創科圈",
+        "創科廣場",
+        "網絡安全"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e3-80-8c-e5-9c-8d-e5-a0-b5-e3-80-8d-e8-88-87-e3-80-8c-e7-b4-93-e8-a7-a3-e3-80-8d.md",
+      "title": "「圍堵」與「紓解」",
+      "description": "",
+      "date": "2022-02-25T05:03:00.000Z",
+      "image": "/images/blog/2022/02/0225J-753x1024.jpg",
+      "tags": [
+        "Biological Technology",
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "categories": [
+        "Biological Technology",
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e6-80-9d-e7-a7-91-e6-8e-a8wi-fi-6e-e5-8f-8a-e7-a7-81-e6-9c-895g-e8-a8-97-e7-ae-a1-e6-87-89-e5-b0-8d-e4-bc-81-e6-a5-ad-e6-b7-b7-e5-90-88-e5-b7-a5-e4-bd-9c-e6-a8-a1-e5-bc-8f.md",
+      "title": "思科推Wi-Fi 6E及私有5G託管   應對企業混合工作模式",
+      "description": "",
+      "date": "2022-02-23T03:36:00.000Z",
+      "image": "/images/blog/2022/02/0223cisco-1-1024x576.png",
+      "tags": [
+        "5G",
+        "CISCO",
+        "Wi-Fi",
+        "WiFi 6E",
+        "創科廣場",
+        "自主科技"
+      ],
+      "categories": [
+        "5G",
+        "CISCO",
+        "Wi-Fi",
+        "WiFi 6E",
+        "創科廣場",
+        "自主科技"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e5-9c-b0-e7-94-a2-e5-95-86-e7-99-bc-e8-a1-8cnft-e4-bd-9c-e5-93-81-e9-85-8d-e5-90-88-e5-ae-a2-e6-88-b6-e5-ae-a3-e5-82-b3-e5-93-81-e7-89-8c.md",
+      "title": "地產商發行NFT作品   配合客戶宣傳品牌",
+      "description": "",
+      "date": "2022-02-23T00:55:00.000Z",
+      "image": "/images/blog/2022/02/0222oxo-2-1024x633.png",
+      "tags": [
+        "Fintech",
+        "NFT",
+        "創科廣場",
+        "金融創新"
+      ],
+      "categories": [
+        "Fintech",
+        "NFT",
+        "創科廣場",
+        "金融創新"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/deepmind-e7-a0-b4-e8-a7-a3-e7-a3-81-e7-b4-84-e6-9d-9f-e9-9b-a3-e9-a1-8c-e6-9c-89-e6-9c-9b-e5-8a-a0-e9-80-9f-e6-a0-b8-e8-81-9a-e8-ae-8a-e5-95-86-e7-94-a8.md",
+      "title": "DeepMind破解磁約束難題   有望加速核聚變商用",
+      "description": "",
+      "date": "2022-02-22T02:28:00.000Z",
+      "image": "/images/blog/2022/02/0222deepmind-1-991x1024.png",
+      "tags": [
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e6-95-b8-e7-a2-bc-e6-b8-af-e8-88-87google-e8-a8-88-e7-95-ab-e5-90-88-e4-bd-9c-e5-8a-a9-e5-88-9d-e5-89-b5-e4-bb-a5-e9-9b-b2-e6-8a-80-e8-a1-93-e5-89-b5-e6-96-b0.md",
+      "title": "數碼港與Google計畫合作   助初創以雲技術創新",
+      "description": "",
+      "date": "2022-02-22T01:33:00.000Z",
+      "image": "/images/blog/2022/02/0222cyberport.jpg",
+      "tags": [
+        "Cyberport",
+        "Smart City",
+        "創科圈",
+        "創科廣場",
+        "數碼港",
+        "眾創時代"
+      ],
+      "categories": [
+        "Cyberport",
+        "Smart City",
+        "創科圈",
+        "創科廣場",
+        "數碼港",
+        "眾創時代"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e6-96-b0-e8-83-bd-e6-ba-90-e8-88-b9-e8-89-87-e5-a4-a7-e5-8b-a2-e6-89-80-e8-b6-a8-e9-9b-bb-e5-8a-9b-e6-8e-a8-e9-80-81-e7-b3-bb-e7-b5-b1-e6-b9-a7-e7-8f-be.md",
+      "title": "新能源船艇大勢所趨   電力推送系統湧現",
+      "description": "",
+      "date": "2022-02-22T01:22:00.000Z",
+      "image": "/images/blog/2022/02/0222mercury01.png",
+      "tags": [
+        "企業數碼",
+        "創科廣場"
+      ],
+      "categories": [
+        "企業數碼",
+        "創科廣場"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e7-a4-be-e4-ba-a4-e5-b9-b3-e5-8f-b0-e6-8b-93-e5-95-86-e5-8b-99-e6-88-90-e8-b6-a8-e5-8b-a2-e8-a8-ad-e8-a8-88-e8-aa-b2-e7-a8-8b-e5-8a-a9-e6-8e-8c-e6-8f-a1-e5-b7-a5-e5-85-b7.md",
+      "title": "社交平台拓商務成趨勢   設計課程助掌握工具",
+      "description": "",
+      "date": "2022-02-22T01:02:00.000Z",
+      "image": "/images/blog/2022/02/0222meta02-212x300.png",
+      "tags": [
+        "Meta",
+        "Metaverse",
+        "企業轉型",
+        "創科廣場"
+      ],
+      "categories": [
+        "Meta",
+        "Metaverse",
+        "企業轉型",
+        "創科廣場"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e6-b8-af-e5-88-9d-e5-89-b5-e9-80-b2-e8-bb-8d-e6-96-b0-e9-a0-98-e5-9f-9f-ai-e8-9e-8d-e5-85-a5-e7-be-8e-e5-ae-b9-e9-86-ab-e7-99-82-e8-a1-8c-e6-a5-ad.md",
+      "title": "港初創進軍新領域    AI融入美容醫療行業",
+      "description": "",
+      "date": "2022-02-19T05:03:00.000Z",
+      "image": "/images/blog/2022/02/0216Biai-_1.png",
+      "tags": [
+        "Artificial Intelligence",
+        "創科廣場",
+        "眾創時代"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "創科廣場",
+        "眾創時代"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e7-92-b0-e4-bf-9d-e7-b4-a1-e7-b9-94-e6-9d-90-e6-96-99-e7-8d-b2-e6-b3-a8-e8-b3-87-e5-8f-96-e4-bb-a3-e5-90-88-e6-88-90-e7-ba-96-e7-b6-ad-e6-b8-9b-e7-a2-b3-e6-8e-92.md",
+      "title": "環保紡織材料獲注資   取代合成纖維減碳排",
+      "description": "",
+      "date": "2022-02-18T03:50:00.000Z",
+      "image": "/images/blog/2022/02/0218HeiQ-3_AeoniQ_cellulosic_yarn.jpg",
+      "tags": [
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e7-97-85-e6-af-92-e6-aa-a2-e6-b8-ac.md",
+      "title": "病毒檢測",
+      "description": "",
+      "date": "2022-02-18T00:01:00.000Z",
+      "image": "/images/blog/2022/02/J0218-1-300x281.png",
+      "tags": [
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "categories": [
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e5-be-ae-e8-bb-9f-e5-a4-a5ey-e3-80-81pwc-e5-8f-8atectura-e6-8e-a8-e6-8b-9b-e8-81-98-e8-a8-88-e7-95-ab-e5-9f-b9-e8-82-b2-e6-95-b8-e7-a2-bc-e8-bd-89-e5-9e-8b-e5-95-86-e6-a5-ad-e8-ab-ae-e8-a9-a2.md",
+      "title": "微軟夥EY、PwC及TECTURA推招聘計畫          培育數碼轉型商業諮詢人才",
+      "description": "",
+      "date": "2022-02-17T12:30:00.000Z",
+      "image": "/images/blog/2022/02/photo-2-1024x835.png",
+      "tags": [
+        "CRM",
+        "Digital Press",
+        "Digital Transformation",
+        "ERP",
+        "EY",
+        "Microsoft",
+        "PwC",
+        "TECTURA",
+        "創科廣場",
+        "數碼轉型"
+      ],
+      "categories": [
+        "CRM",
+        "Digital Press",
+        "Digital Transformation",
+        "ERP",
+        "EY",
+        "Microsoft",
+        "PwC",
+        "TECTURA",
+        "創科廣場",
+        "數碼轉型"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e5-8d-80-e5-a1-8a-e9-8f-88-e6-87-89-e7-94-a8-e6-97-a5-e6-bc-b8-e5-bb-a3-e6-b3-9b-e5-9c-8b-e5-85-a77-e4-bc-81-e6-a5-ad-e5-88-97-e9-a0-98-e8-a2-96-e6-a6-9c.md",
+      "title": "區塊鏈應用日漸廣泛   國內7企業列領袖榜",
+      "description": "",
+      "date": "2022-02-16T00:20:00.000Z",
+      "image": "/images/blog/2022/02/0216webank-1c-1024x662.png",
+      "tags": [
+        "Blockchain",
+        "Fintech",
+        "創科廣場",
+        "金融創新"
+      ],
+      "categories": [
+        "Blockchain",
+        "Fintech",
+        "創科廣場",
+        "金融創新"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/saas-e5-a2-9e-e9-80-a3-e6-8e-a5-e6-9c-8d-e5-8b-99-e9-9c-80-e6-b1-82-cloudflare-e6-94-b6-e8-b3-bccasb-e5-88-9d-e5-89-b5.md",
+      "title": "SaaS增連接服務需求   Cloudflare收購CASB初創",
+      "description": "",
+      "date": "2022-02-15T02:46:00.000Z",
+      "image": "/images/blog/2022/02/0215cloudflare02.jpg",
+      "tags": [
+        "Cloud computing",
+        "SaaS",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Cloud computing",
+        "SaaS",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e7-96-ab-e6-83-85-e5-9a-b4-e7-ab-a3-e7-96-ab-e8-8b-97-e8-ad-b7-e7-85-a7-e5-8a-a0-e8-be-a3-e5-81-bd-e9-80-a0-e9-80-9a-e8-a1-8c-e8-ad-89-e6-ad-bb-e7-81-b0-e5-be-a9-e7-87-83.md",
+      "title": "疫情嚴竣疫苗護照加辣   偽造通行證死灰復燃",
+      "description": "",
+      "date": "2022-02-15T01:40:00.000Z",
+      "image": "/images/blog/2022/02/0215checkpoint-1-1024x570.png",
+      "tags": [
+        "CheckPoint",
+        "Cyber Security",
+        "Data protection",
+        "創科廣場",
+        "網絡保安"
+      ],
+      "categories": [
+        "CheckPoint",
+        "Cyber Security",
+        "Data protection",
+        "創科廣場",
+        "網絡保安"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e7-b6-b2-e8-b3-bc-e7-89-a9-e6-b5-81-e8-a6-81-e6-b1-82-e6-97-a5-e9-ab-98-e4-ba-ba-e5-b7-a5-e6-99-ba-e8-83-bd-e5-84-aa-e5-8c-96-e9-85-8d-e9-80-81.md",
+      "title": "網購物流要求日高   人工智能優化配送",
+      "description": "",
+      "date": "2022-02-14T00:12:00.000Z",
+      "image": "/images/blog/2022/02/0215fedex-1024x577.jpg",
+      "tags": [
+        "Fedex",
+        "Microsoft",
+        "企業轉型",
+        "創科廣場"
+      ],
+      "categories": [
+        "Fedex",
+        "Microsoft",
+        "企業轉型",
+        "創科廣場"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e4-bc-81-e6-a5-ad-e5-8d-87-e7-b4-9a-e7-b6-b2-e7-b5-a1-e9-81-a0-e7-ab-af-e5-ad-98-e5-8f-96-e7-ab-af-e7-b5-82-e9-98-b2-e8-ad-b7-e7-b5-90-e5-90-88-e9-9b-b6-e4-bf-a1-e4-bb-bb.md",
+      "title": "企業升級網絡遠端存取   端終防護結合零信任",
+      "description": "",
+      "date": "2022-02-11T01:03:00.000Z",
+      "image": "/images/blog/2022/02/0211sophos-1.png",
+      "tags": [
+        "Cyber Security",
+        "Data protection",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Cyber Security",
+        "Data protection",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/arm-e4-b8-8a-e5-b8-82.md",
+      "title": "ARM上市",
+      "description": "",
+      "date": "2022-02-11T00:25:00.000Z",
+      "image": "/images/blog/2022/02/J0211-1.png",
+      "tags": [
+        "NVIDIA",
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "categories": [
+        "NVIDIA",
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e7-b6-b2-e7-b5-a1-e9-98-b2-e7-a6-a6-e7-9f-a5-e5-b7-b1-e7-9f-a5-e5-bd-bc-e6-94-bb-e6-93-8a-e9-9d-a2-e7-ae-a1-e7-90-86-e6-88-90-e9-87-8d-e9-bb-9e.md",
+      "title": "網絡防禦知己知彼   攻擊面管理成重點",
+      "description": "",
+      "date": "2022-02-09T01:22:00.000Z",
+      "image": "/images/blog/2022/02/0209mandiant01-1024x514.png",
+      "tags": [
+        "Cyber Security",
+        "Data protection",
+        "Digital Transformation",
+        "創科廣場",
+        "數碼轉型"
+      ],
+      "categories": [
+        "Cyber Security",
+        "Data protection",
+        "Digital Transformation",
+        "創科廣場",
+        "數碼轉型"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/ai-e4-bf-9d-e5-ae-89-e6-93-b4-e8-87-b3-e7-b5-82-e7-ab-af-e8-a8-ad-e5-82-99-e6-87-89-e4-bb-98-e9-82-8a-e7-b7-a3-e9-81-8b-e7-ae-97-e7-94-a8-e6-88-b6-e5-88-86-e6-95-a3.md",
+      "title": "AI保安擴至終端設備   應付邊緣運算用戶分散",
+      "description": "",
+      "date": "2022-02-09T00:26:00.000Z",
+      "image": "/images/blog/2022/02/0209Darktrace-1.png",
+      "tags": [
+        "Cyber Security",
+        "Data protection",
+        "創科廣場",
+        "網絡保安"
+      ],
+      "categories": [
+        "Cyber Security",
+        "Data protection",
+        "創科廣場",
+        "網絡保安"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e9-87-91-e8-9e-8d-e7-8d-a8-e8-a7-92-e7-8d-b8pingpong-e5-a4-a5mastercard-e6-8b-93b2c-e5-b8-82-e5-a0-b4.md",
+      "title": "金融獨角獸PingPong   夥Mastercard拓B2C市場",
+      "description": "",
+      "date": "2022-02-08T03:16:00.000Z",
+      "image": "/images/blog/2022/02/0202PingPong01.png",
+      "tags": [
+        "Fintech",
+        "創科廣場",
+        "金融創新"
+      ],
+      "categories": [
+        "Fintech",
+        "創科廣場",
+        "金融創新"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e8-87-aa-e5-8b-95-e7-84-a1-e4-ba-ba-e5-80-89-e6-99-ba-e6-85-a7-e5-88-86-e6-8f-80-e7-89-a9-e6-b5-81-e6-a9-9f-e6-a2-b0-e4-ba-ba-e6-96-b9-e6-a1-88-e8-88-88-e8-b5-b7.md",
+      "title": "自動無人倉智慧分揀   物流機械人方案興起",
+      "description": "",
+      "date": "2022-02-04T01:25:00.000Z",
+      "image": "/images/blog/2022/02/0201dorasort01-1024x576.jpg",
+      "tags": [
+        "Digital Transformation",
+        "Robotics",
+        "Smart City",
+        "企業轉型",
+        "創科廣場"
+      ],
+      "categories": [
+        "Digital Transformation",
+        "Robotics",
+        "Smart City",
+        "企業轉型",
+        "創科廣場"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2022/02/e8-bb-8a-e7-89-8c-e8-ad-98-e5-88-a5-e7-b5-90-e5-90-88-e9-9b-bb-e5-ad-90-e6-94-b6-e8-b2-bb-e6-94-b9-e5-96-84-e9-ab-94-e9-a9-97-e5-a2-9e-e4-bd-bf-e7-94-a8-e7-8e-87.md",
+      "title": "車牌識別結合電子收費   改善體驗增使用率",
+      "description": "",
+      "date": "2022-02-04T00:35:00.000Z",
+      "image": "/images/blog/2022/02/WilsonParking.jpg",
+      "tags": [
+        "Smart City",
+        "創科廣場",
+        "智慧城市"
+      ],
+      "categories": [
+        "Smart City",
+        "創科廣場",
+        "智慧城市"
+      ],
+      "author": "Sharon"
+    }
+  ]
+}

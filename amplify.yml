@@ -1,0 +1,157 @@
+version: 1
+applications:
+  - appRoot: .
+    frontend:
+      phases:
+        preBuild:
+          commands:
+            - 'echo "Setting Node.js version to 20.x"'
+            - 'nvm use 20.17.0 || nvm install 20.17.0'
+            - 'echo "Node version:"'
+            - 'node --version'
+            - 'echo "NPM version:"'
+            - 'npm --version'
+            - 'export NPM_CONFIG_PRODUCTION=false && echo "Ensuring devDependencies are installed (NPM_CONFIG_PRODUCTION=$NPM_CONFIG_PRODUCTION)"'
+            - 'npm ci --include=dev'
+            - 'echo "Build environment setup complete - content will be fetched at runtime"'
+        build:
+          commands:
+            - 'echo "Building Next.js application..."'
+            - 'npm run build'
+            - 'echo "Build completed successfully"'
+        postBuild:
+          commands:
+            - "echo 'Post-build cleanup...'"
+            - "ls -la .next/ || true"
+            - "echo 'Build artifacts ready - no content copying needed'"
+      artifacts:
+        baseDirectory: .next
+        files:
+          - standalone/**
+          - static/**
+          - required-server-files.json
+      cache:
+        paths:
+          - node_modules/**/*
+          - .next/cache/**/*
+    test:
+      phases:
+        preTest:
+          commands:
+            - echo "Running pre-test phase..."
+        test:
+          commands:
+            - echo "Running tests..."
+            # Add your test commands here if needed
+            # - npm test
+        postTest:
+          commands:
+            - echo "Test phase completed"
+      artifacts:
+        baseDirectory: .
+        files:
+          - "**/*"
+
+# Branch-specific deployment rules
+branchConfigs:
+  main:
+    # Main branch: Deploy on GitHub main branch pushes (production)
+    # Lambda will handle content updates separately
+    phases:
+      preBuild:
+        commands:
+          - "echo 'Main branch: Production deployment on GitHub push'"
+          - "echo 'Setting Node.js version to 20.x'"
+          - "nvm use 20.17.0 || nvm install 20.17.0"
+          - "echo 'Node version:'"
+          - "node --version"
+          - "export NPM_CONFIG_PRODUCTION=false && echo 'Ensuring devDependencies are installed (NPM_CONFIG_PRODUCTION='$NPM_CONFIG_PRODUCTION')'"
+          - "npm ci --include=dev"
+          - "echo 'Setting up AWS permissions for DynamoDB and AppSync access...'"
+          - "echo 'AWS_EXECUTION_ENV=AWS_Lambda_nodejs20.x' >> .env.production"
+          - "echo 'AWS_REGION=ap-east-1' >> .env.production"
+          - "echo 'Dumping .env.production after AWS vars write'"
+          - "cat .env.production || true"
+          - "echo 'Skipping SSM parameter creation to avoid backend environment issues'"
+          - "echo 'Syncing latest content from S3 for production'"
+          - "aws s3 sync s3://itsquareupdatedcontent/content/ content/ --region ap-east-1 --delete"
+          - "aws s3 sync s3://itsquareupdatedcontent/static/images/ public/images/ --region ap-east-1 --delete"
+          - "echo 'Generating content manifest for production'"
+          - "find content/posts -name '*.md' | sed -e 's|^content/|content/|' | sort > content/metadata/index.list || true"
+      build:
+        commands:
+          - "echo 'Building Next.js application for production...'"
+          - "echo 'Setting production environment variables...'"
+          - "echo 'NEXT_PUBLIC_BASE_URL=https://it-square.hk' >> .env.production"
+          - "echo 'NEXT_PUBLIC_BRANCH=main' >> .env.production"
+          - "echo 'NEXT_PUBLIC_CUSTOM_DOMAIN=true' >> .env.production"
+          - env | grep -e NEXT_PUBLIC_ >> .env.production
+          - "echo '=== DEBUGGING: Environment Variables for Runtime ==='"
+          - "echo 'Current .env.production contents:'"
+          - "cat .env.production"
+          - "echo '=== AWS Environment Check ==='"
+          - "echo 'AWS_REGION=' && echo ${AWS_REGION:-'NOT_SET'}"
+          - "echo 'AWS_EXECUTION_ENV=' && echo ${AWS_EXECUTION_ENV:-'NOT_SET'}"
+          - "echo 'NODE_ENV=' && echo ${NODE_ENV:-'NOT_SET'}"
+          - "npm run build"
+      postBuild:
+        commands:
+          - "echo 'Preparing production artifacts...'"
+          - "cp -r public .next/"
+          - "cp -r content .next/"
+    artifacts:
+      baseDirectory: .next
+      files:
+        - standalone/**
+        - static/**
+        - required-server-files.json
+        - public/**
+        - content/**
+    cache:
+      paths:
+        - node_modules/**/*
+        - .next/cache/**/*
+  
+  amplify-test:
+    # Amplify-test branch: Simplified testing deployment - content fetched at runtime
+    phases:
+      preBuild:
+        commands:
+          - "echo 'Amplify-test branch: Simplified deployment'"
+          - "echo 'Setting Node.js version to 20.x'"
+          - "nvm use 20.17.0 || nvm install 20.17.0"
+          - "echo 'Node version:'"
+          - "node --version"
+          - "echo 'NPM version:'"
+          - "npm --version"
+          - "export NPM_CONFIG_PRODUCTION=false && echo 'Ensuring devDependencies are installed (NPM_CONFIG_PRODUCTION='$NPM_CONFIG_PRODUCTION')'"
+          - "npm ci --include=dev"
+          - "echo 'Setting up AWS permissions for DynamoDB and AppSync access...'"
+          - "echo 'AWS_EXECUTION_ENV=AWS_Lambda_nodejs20.x' >> .env.production"
+          - "echo 'AWS_REGION=ap-east-1' >> .env.production"
+          - "echo 'Build environment ready - content will be fetched at runtime'"
+      build:
+        commands:
+          - "echo 'Building Next.js application for amplify-test...'"
+          - "echo 'Setting amplify-test environment variables...'"
+          - "echo 'NEXT_PUBLIC_BASE_URL=https://amplify-test.d1gzwnduof06os.amplifyapp.com' >> .env.production"
+          - "echo 'NEXT_PUBLIC_BRANCH=amplify-test' >> .env.production"
+          - "echo 'NODE_ENV=production' >> .env.production"
+          - env | grep -e NEXT_PUBLIC_ >> .env.production
+          - "npm run build"
+      postBuild:
+        commands:
+          - "echo 'Build completed for amplify-test'"
+          - "echo 'Verifying AWS permissions...'"
+          - "aws sts get-caller-identity || echo 'AWS credentials check failed - this is expected in some environments'"
+          - "ls -la .next/ || true"
+    artifacts:
+      baseDirectory: .next
+      files:
+        - standalone/**
+        - static/**
+        - required-server-files.json
+    cache:
+      paths:
+        - node_modules/**/*
+        - .next/cache/**/*

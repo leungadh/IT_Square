@@ -1,0 +1,324 @@
+# AI Reports and Posts Schema with Recommendation System
+
+type AIReport {
+  id: ID!
+  title: String!
+  description: String!
+  content: String!
+  author: String!
+  category: String!
+  tags: [String!]!
+  s3Key: String!
+  dynamoDbId: String!
+  publishedDate: String!
+  lastUpdated: String!
+  viewCount: Int!
+  downloadCount: Int!
+  rating: Float
+  fileSize: Int
+  fileType: String!
+}
+
+type Post {
+  id: ID!
+  title: String!
+  description: String!
+  content: String!
+  author: String!
+  category: String!
+  tags: [String!]!
+  image: String
+  publishedDate: String!
+  lastUpdated: String!
+  viewCount: Int!
+  likeCount: Int!
+  commentCount: Int!
+  isPublished: Boolean!
+}
+
+type Category {
+  id: ID!
+  name: String!
+  description: String!
+  slug: String!
+  parentCategory: String
+  postCount: Int!
+  reportCount: Int!
+  isActive: Boolean!
+  createdAt: String!
+  updatedAt: String!
+}
+
+type Tag {
+  id: ID!
+  name: String!
+  description: String!
+  slug: String!
+  postCount: Int!
+  reportCount: Int!
+  isActive: Boolean!
+  createdAt: String!
+  updatedAt: String!
+}
+
+# User behavior tracking (anonymous, no personal info)
+type UserBehavior {
+  sessionId: ID!
+  userId: String! # Hashed anonymous user ID based on cookie, IP, and device info
+  timestamp: String!
+  action: String! # view, download, like, search, navigate, share, comment, bookmark
+  contentType: String! # post, report, category, tag
+  contentId: String!
+  category: String
+  tags: [String!]
+  searchQuery: String
+  referrer: String
+  userAgent: String
+  ipAddress: String
+  duration: Int # Time spent on content in seconds
+  scrollDepth: Float # Percentage of content scrolled
+}
+
+# Activity scoring for popularity calculation
+type ActivityScore {
+  contentId: ID!
+  contentType: String!
+  totalScore: Float!
+  viewScore: Float!
+  engagementScore: Float!
+  recencyScore: Float!
+  trendingScore: Float!
+  calculatedAt: String!
+  timeRange: String! # 24h, 7d, 30d, all
+}
+
+# Popular content result with scoring details
+type PopularPost {
+  post: Post!
+  activityScore: ActivityScore!
+  rank: Int!
+}
+
+# Recommendation results
+type Recommendation {
+  id: ID!
+  sessionId: String!
+  userId: String!
+  timestamp: String!
+  recommendations: [RecommendationItem!]!
+  algorithm: String!
+  score: Float!
+}
+
+type RecommendationItem {
+  contentType: String! # post, report
+  contentId: String!
+  title: String!
+  category: String!
+  tags: [String!]!
+  score: Float!
+  reason: String!
+}
+
+# Connection types for pagination
+type AIReportConnection {
+  items: [AIReport!]!
+  nextToken: String
+}
+
+type PostConnection {
+  items: [Post!]!
+  nextToken: String
+}
+
+type CategoryConnection {
+  items: [Category!]!
+  nextToken: String
+}
+
+type TagConnection {
+  items: [Tag!]!
+  nextToken: String
+}
+
+type UserBehaviorConnection {
+  items: [UserBehavior!]!
+  nextToken: String
+}
+
+type RecommendationConnection {
+  items: [Recommendation!]!
+  nextToken: String
+}
+
+# Queries
+type Query {
+  # AI Reports
+  getAIReports(limit: Int, nextToken: String, category: String, tags: [String!]): AIReportConnection!
+  getAIReport(id: ID!): AIReport
+  getPopularAIReports(limit: Int, timeRange: String): AIReportConnection!
+  
+  # Posts
+  getPosts(limit: Int, nextToken: String, category: String, tags: [String!]): PostConnection!
+  getPost(id: ID!): Post
+  getPopularPosts(limit: Int, timeRange: String): PostConnection!
+  getRelatedPosts(postId: ID!, limit: Int): PostConnection!
+  
+  // Categories and Tags
+  getCategories: CategoryConnection!
+  getCategory(id: ID!): Category
+  getTags: TagConnection!
+  getTag(id: ID!): Tag
+  
+  // User Behavior Analytics
+  getUserBehavior(sessionId: ID!, limit: Int, nextToken: String): UserBehaviorConnection!
+  getPopularCategories(timeRange: String): CategoryConnection!
+  getPopularTags(timeRange: String): TagConnection!
+  
+  // Recommendations
+  getRecommendations(sessionId: ID!, userId: String!, limit: Int): RecommendationConnection!
+  getRecommendationsForPost(postId: ID!, limit: Int): PostConnection!
+  getRecommendationsForReport(reportId: ID!, limit: Int): AIReportConnection!
+}
+
+type Mutation {
+  // AI Reports
+  createAIReport(input: CreateAIReportInput!): AIReport!
+  updateAIReport(id: ID!, input: UpdateAIReportInput!): AIReport!
+  deleteAIReport(id: ID!): Boolean!
+  incrementReportView(id: ID!): AIReport!
+  incrementReportDownload(id: ID!): AIReport!
+  
+  // Posts
+  createPost(input: CreatePostInput!): Post!
+  updatePost(id: ID!, input: UpdatePostInput!): Post!
+  deletePost(id: ID!): Boolean!
+  incrementPostView(id: ID!): Post!
+  incrementPostLike(id: ID!): Post!
+  
+  // Categories and Tags
+  createCategory(input: CreateCategoryInput!): Category!
+  updateCategory(id: ID!, input: UpdateCategoryInput!): Category!
+  deleteCategory(id: ID!): Boolean!
+  createTag(input: CreateTagInput!): Tag!
+  updateTag(id: ID!, input: UpdateTagInput!): Tag!
+  deleteTag(id: ID!): Boolean!
+  
+  // User Behavior Tracking
+  trackUserBehavior(input: TrackUserBehaviorInput!): UserBehavior!
+  trackDetailedActivity(input: TrackDetailedActivityInput!): UserBehavior!
+  
+  // Recommendations
+  generateRecommendations(sessionId: ID!, userId: String!): Recommendation!
+}
+
+# Input types
+input CreateAIReportInput {
+  title: String!
+  description: String!
+  content: String!
+  author: String!
+  category: String!
+  tags: [String!]!
+  s3Key: String!
+  dynamoDbId: String!
+  fileSize: Int!
+  fileType: String!
+}
+
+input UpdateAIReportInput {
+  title: String
+  description: String
+  content: String
+  author: String
+  category: String
+  tags: [String!]
+  s3Key: String
+  dynamoDbId: String
+  fileSize: Int
+  fileType: String
+}
+
+input CreatePostInput {
+  title: String!
+  description: String!
+  content: String!
+  author: String!
+  category: String!
+  tags: [String!]!
+  image: String
+  isPublished: Boolean!
+}
+
+input UpdatePostInput {
+  title: String
+  description: String
+  content: String
+  author: String
+  category: String
+  tags: [String!]
+  image: String
+  isPublished: Boolean
+}
+
+input CreateCategoryInput {
+  name: String!
+  description: String!
+  slug: String!
+  parentCategory: String
+}
+
+input UpdateCategoryInput {
+  name: String
+  description: String
+  slug: String
+  parentCategory: String
+  isActive: Boolean
+}
+
+input CreateTagInput {
+  name: String!
+  description: String!
+  slug: String!
+}
+
+input UpdateTagInput {
+  name: String
+  description: String
+  slug: String
+  isActive: Boolean
+}
+
+input TrackUserBehaviorInput {
+  sessionId: String!
+  userId: String
+  action: String!
+  contentType: String!
+  contentId: String!
+  category: String
+  tags: [String!]
+  searchQuery: String
+  referrer: String
+  userAgent: String
+  ipAddress: String
+}
+
+input TrackDetailedActivityInput {
+  sessionId: String!
+  userId: String
+  action: String!
+  contentType: String!
+  contentId: String!
+  category: String
+  tags: [String!]
+  duration: Int
+  scrollDepth: Float
+  referrer: String
+  userAgent: String
+  ipAddress: String
+}
+
+schema {
+  query: Query
+  mutation: Mutation
+}

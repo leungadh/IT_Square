@@ -1,0 +1,601 @@
+{
+    "Items": [
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "view"
+            },
+            "deviceType": {
+                "S": "desktop"
+            },
+            "timestamp": {
+                "S": "2025-09-06T07:29:51.441Z"
+            },
+            "contentType": {
+                "S": "article"
+            },
+            "referrer": {
+                "S": "http://localhost:3000/article/20250906dyson"
+            },
+            "sessionId": {
+                "S": "session_1757143790889_3jbk18d8v"
+            },
+            "contentId": {
+                "S": "20250906dyson"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "id": {
+                "S": "behavior_1757143791441_fwqcxjppz"
+            },
+            "duration": {
+                "N": "0"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            },
+            "scrollDepth": {
+                "N": "0"
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "view"
+            },
+            "deviceType": {
+                "S": "desktop"
+            },
+            "timestamp": {
+                "S": "2025-09-06T07:57:19.230Z"
+            },
+            "contentType": {
+                "S": "article"
+            },
+            "referrer": {
+                "S": "http://localhost:3000/article/20250906dyson"
+            },
+            "sessionId": {
+                "S": "session_1757143790889_3jbk18d8v"
+            },
+            "contentId": {
+                "S": "20250906dyson"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "id": {
+                "S": "behavior_1757145439230_e92eolvp9"
+            },
+            "duration": {
+                "N": "0"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            },
+            "scrollDepth": {
+                "N": "0"
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "view"
+            },
+            "deviceType": {
+                "S": "desktop"
+            },
+            "timestamp": {
+                "S": "2025-09-06T08:02:12.340Z"
+            },
+            "contentType": {
+                "S": "article"
+            },
+            "referrer": {
+                "S": "http://localhost:3000/article/20250906dyson"
+            },
+            "sessionId": {
+                "S": "session_1757143790889_3jbk18d8v"
+            },
+            "contentId": {
+                "S": "20250906dyson"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "id": {
+                "S": "behavior_1757145732340_7geiu47d2"
+            },
+            "duration": {
+                "N": "0"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            },
+            "scrollDepth": {
+                "N": "0"
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "page_hidden"
+            },
+            "deviceType": {
+                "S": "desktop"
+            },
+            "timestamp": {
+                "S": "2025-09-06T08:02:18.468Z"
+            },
+            "contentType": {
+                "S": "article"
+            },
+            "referrer": {
+                "S": "http://localhost:3000/article/20250906dyson"
+            },
+            "sessionId": {
+                "S": "session_1757143790889_3jbk18d8v"
+            },
+            "contentId": {
+                "S": "20250906dyson"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "id": {
+                "S": "behavior_1757145738468_6h67tjihm"
+            },
+            "duration": {
+                "N": "6"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            },
+            "scrollDepth": {
+                "N": "0.3489473684210526"
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "page_visible"
+            },
+            "deviceType": {
+                "S": "desktop"
+            },
+            "timestamp": {
+                "S": "2025-09-06T08:02:52.204Z"
+            },
+            "contentType": {
+                "S": "article"
+            },
+            "referrer": {
+                "S": "http://localhost:3000/article/20250906dyson"
+            },
+            "sessionId": {
+                "S": "session_1757143790889_3jbk18d8v"
+            },
+            "contentId": {
+                "S": "20250906dyson"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "id": {
+                "S": "behavior_1757145772204_0soeccihf"
+            },
+            "duration": {
+                "N": "40"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            },
+            "scrollDepth": {
+                "N": "0.3489473684210526"
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "page_hidden"
+            },
+            "deviceType": {
+                "S": "desktop"
+            },
+            "timestamp": {
+                "S": "2025-09-06T08:03:21.297Z"
+            },
+            "contentType": {
+                "S": "article"
+            },
+            "referrer": {
+                "S": "http://localhost:3000/article/20250906dyson"
+            },
+            "sessionId": {
+                "S": "session_1757143790889_3jbk18d8v"
+            },
+            "contentId": {
+                "S": "20250906dyson"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "id": {
+                "S": "behavior_1757145801297_kqht47gua"
+            },
+            "duration": {
+                "N": "69"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            },
+            "scrollDepth": {
+                "N": "0.3489473684210526"
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "page_visible"
+            },
+            "deviceType": {
+                "S": "desktop"
+            },
+            "timestamp": {
+                "S": "2025-09-06T08:03:23.078Z"
+            },
+            "contentType": {
+                "S": "article"
+            },
+            "referrer": {
+                "S": "http://localhost:3000/article/20250906dyson"
+            },
+            "sessionId": {
+                "S": "session_1757143790889_3jbk18d8v"
+            },
+            "contentId": {
+                "S": "20250906dyson"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "id": {
+                "S": "behavior_1757145803078_uwejw5r3h"
+            },
+            "duration": {
+                "N": "70"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            },
+            "scrollDepth": {
+                "N": "0.3489473684210526"
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "page_hidden"
+            },
+            "deviceType": {
+                "S": "desktop"
+            },
+            "timestamp": {
+                "S": "2025-09-06T08:03:38.156Z"
+            },
+            "contentType": {
+                "S": "article"
+            },
+            "referrer": {
+                "S": "http://localhost:3000/article/20250906dyson"
+            },
+            "sessionId": {
+                "S": "session_1757143790889_3jbk18d8v"
+            },
+            "contentId": {
+                "S": "20250906dyson"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "id": {
+                "S": "behavior_1757145818156_3ap4dmw3w"
+            },
+            "duration": {
+                "N": "85"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            },
+            "scrollDepth": {
+                "N": "0.3489473684210526"
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "view"
+            },
+            "deviceType": {
+                "S": "desktop"
+            },
+            "timestamp": {
+                "S": "2025-09-08T11:20:46.372Z"
+            },
+            "contentType": {
+                "S": "article"
+            },
+            "referrer": {
+                "S": "http://localhost:3000/article/2025/09/20250906dyson"
+            },
+            "sessionId": {
+                "S": "session_1757307353826_0ava5s3x0"
+            },
+            "contentId": {
+                "S": "20250906dyson"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "id": {
+                "S": "behavior_1757330446372_k8j9sg8dt"
+            },
+            "duration": {
+                "N": "0"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            },
+            "scrollDepth": {
+                "N": "0"
+            }
+        }
+    ],
+    "Count": 9,
+    "ScannedCount": 9,
+    "ConsumedCapacity": null
+}

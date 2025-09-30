@@ -1,0 +1,25 @@
+{
+  "FunctionName": "itsquare-s3-indexing-trigger",
+  "Runtime": "nodejs18.x",
+  "Role": "arn:aws:iam::YOUR_ACCOUNT_ID:role/lambda-s3-indexing-role",
+  "Handler": "s3-indexing-trigger.handler",
+  "Code": {
+    "ZipFile": "lambda function code will be here"
+  },
+  "Description": "Automatically rebuild search indexes when S3 content changes",
+  "Timeout": 300,
+  "MemorySize": 512,
+  "Environment": {
+    "Variables": {
+      "AWS_REGION": "ap-east-1",
+      "S3_BUCKET_NAME": "itsquareupdatedcontent",
+      "POSTS_PREFIX": "content/posts/",
+      "METADATA_PREFIX": "content/metadata/"
+    }
+  },
+  "Tags": {
+    "Project": "IT-Square",
+    "Purpose": "Search-Indexing",
+    "Environment": "Production"
+  }
+}

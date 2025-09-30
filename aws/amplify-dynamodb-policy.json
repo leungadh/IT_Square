@@ -1,0 +1,57 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "dynamodb:GetItem",
+        "dynamodb:PutItem",
+        "dynamodb:Query",
+        "dynamodb:Scan",
+        "dynamodb:UpdateItem",
+        "dynamodb:DeleteItem",
+        "dynamodb:BatchGetItem",
+        "dynamodb:BatchWriteItem"
+      ],
+      "Resource": [
+        "arn:aws:dynamodb:ap-east-1:*:table/mediainvites",
+        "arn:aws:dynamodb:ap-east-1:*:table/mediainvites/index/*",
+        "arn:aws:dynamodb:ap-east-1:*:table/it-square-topics",
+        "arn:aws:dynamodb:ap-east-1:*:table/it-square-topics/index/*"
+      ]
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "appsync:GraphQL"
+      ],
+      "Resource": [
+        "arn:aws:appsync:ap-east-1:*:apis/l3l5x22umzg4zmhpikypjx2mce/*"
+      ]
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetObject",
+        "s3:ListBucket"
+      ],
+      "Resource": [
+        "arn:aws:s3:::itsquareupdatedcontent",
+        "arn:aws:s3:::itsquareupdatedcontent/*"
+      ]
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "ssm:PutParameter",
+        "ssm:GetParameter",
+        "ssm:GetParameters",
+        "ssm:GetParametersByPath",
+        "ssm:DescribeParameters"
+      ],
+      "Resource": [
+        "arn:aws:ssm:ap-east-1:*:parameter/amplify/d1gzwnduof06os/*"
+      ]
+    }
+  ]
+}

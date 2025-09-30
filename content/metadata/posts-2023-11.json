@@ -1,0 +1,218 @@
+{
+  "items": [
+    {
+      "key": "content/posts/2023/11/e7-b6-b2-e7-b5-a1-e5-ae-89-e5-85-a8-e6-94-bb-e6-93-8a-e6-97-a5-e6-96-b0-e6-9c-88-e7-95-b0-e9-98-b2-e7-a6-a6-e8-88-87-e6-99-82-e4-b8-a6-e9-80-b2-e4-bb-a3-e7-ae-a1-e7-b6-b2-e7-b5-a1-e5-ae-89.md",
+      "title": "網絡安全| 攻擊日新月異防禦與時並進   代管網絡安全服務脫胎換骨",
+      "description": "",
+      "date": "2023-11-29T01:05:00.000Z",
+      "image": "/images/blog/2023/11/citictelecom.jpg",
+      "tags": [
+        "CPC",
+        "新科技速遞",
+        "網絡保安",
+        "網絡安全",
+        "網絡攻擊"
+      ],
+      "categories": [
+        "CPC",
+        "新科技速遞",
+        "網絡保安",
+        "網絡安全",
+        "網絡攻擊"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/11/fintech-e8-8f-af-e6-bd-a4-e9-8a-80-e8-a1-8c-e6-8e-a1-e7-94-a8-e6-ba-90-e5-95-9f-e9-87-91-e8-9e-8d-e5-b9-b3-e5-8f-b0-e4-b8-ad-e9-9b-bb-e9-87-91-e4-bf-a1-e8-87-b4-e5-8a-9b-e6-8e-a8.md",
+      "title": "FinTech|  華潤銀行採用源啟金融平台    中電金信致力推動金融科技",
+      "description": "",
+      "date": "2023-11-28T10:38:00.000Z",
+      "image": "/images/blog/2023/11/Ruk4DjECINWP7enmENAbUOltkqE7YciiG0cXgW4s.jpg",
+      "tags": [
+        "Fintech",
+        "金融創新",
+        "金融科技",
+        "雲端管理"
+      ],
+      "categories": [
+        "Fintech",
+        "金融創新",
+        "金融科技",
+        "雲端管理"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/11/sap-e9-9b-b2-e7-ab-aferp-e9-ab-94-e9-a9-97-e4-b8-ad-e5-bf-83-e6-8e-a8-e5-87-ba-e4-b8-bb-e6-94-bb-e4-b8-ad-e5-b0-8f-e4-bc-81-e5-b8-82-e5-a0-b4.md",
+      "title": "SAP雲端ERP體驗中心    推出主攻中小企市場",
+      "description": "",
+      "date": "2023-11-27T00:20:00.000Z",
+      "image": "/images/blog/2023/11/SAP_1-1024x768.jpg",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "Cloud computing",
+        "ERP",
+        "Machine Learning",
+        "ML",
+        "SAP",
+        "數碼轉型",
+        "雲端管理"
+      ],
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "Cloud computing",
+        "ERP",
+        "Machine Learning",
+        "ML",
+        "SAP",
+        "數碼轉型",
+        "雲端管理"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/11/e7-b6-b2-e7-b5-a1-e6-94-bb-e6-93-8a-e8-ba-ab-e4-bb-bd-e7-ae-a1-e7-90-86-e5-bc-95-e7-99-bc-e4-bf-9d-e5-ae-89-e4-ba-8b-e6-95-85-e4-ba-ba-e5-b7-a5-e6-99-ba-e8-83-bd-e8-87-aa-e5-8b-95-e5-8c-96.md",
+      "title": "網絡攻擊|   身份管理引發保安事故   人工智能自動化堵塞漏洞",
+      "description": "",
+      "date": "2023-11-22T11:17:00.000Z",
+      "image": "/images/blog/2023/11/戴健慶_SailPoint-香港及澳門董事總經理-1024x589.jpg",
+      "tags": [
+        "Cyber Security",
+        "Data protection",
+        "科技罪案",
+        "網絡保安",
+        "網絡安全",
+        "網絡攻擊"
+      ],
+      "categories": [
+        "Cyber Security",
+        "Data protection",
+        "科技罪案",
+        "網絡保安",
+        "網絡安全",
+        "網絡攻擊"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/11/e7-b6-b2-e7-b5-a1-e5-ae-89-e5-85-a8barracuda-e9-9b-bb-e9-83-b5-e6-94-bb-e6-93-8a-e6-bc-94-e8-ae-8a-e7-84-a1-e5-ad-94-e4-b8-8d-e5-85-a5-e6-95-b8-e6-93-9a-e5-85-b1-e4-ba-ab-e5-85-a5-e4-be-b5.md",
+      "title": "網絡安全|Barracuda|電郵攻擊演變無孔不入    數據共享入侵無所遁形",
+      "description": "",
+      "date": "2023-11-20T00:18:00.000Z",
+      "image": "/images/blog/2023/11/1120barracuda-210x300.png",
+      "tags": [
+        "Barracuda",
+        "Cyber Security",
+        "Data protection",
+        "網絡保安",
+        "網絡安全",
+        "網絡攻擊"
+      ],
+      "categories": [
+        "Barracuda",
+        "Cyber Security",
+        "Data protection",
+        "網絡保安",
+        "網絡安全",
+        "網絡攻擊"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/11/e7-94-9f-e6-88-90-e5-bc-8fai-e9-a2-a8-e9-9a-aa-e5-8f-97-e9-97-9c-e6-b3-a8-ai-e5-ae-89-e5-85-a8-e6-a8-a1-e5-9e-8b-e6-87-89-e9-81-8b-e8-80-8c-e7-94-9f.md",
+      "title": "生成式AI風險受關注   AI安全模型應運而生",
+      "description": "",
+      "date": "2023-11-13T01:38:00.000Z",
+      "image": "/images/blog/2023/11/1113PWC01-1024x683.jpg",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "新科技速遞"
+      ],
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/11/e6-99-ba-e6-85-a7-e5-9f-8e-e5-b8-82-e7-99-bc-e5-b1-95-e6-95-b8-e7-a2-bc-e7-b6-93-e6-bf-9f-e5-9f-ba-e5-bb-ba-e5-85-88-e8-a1-8c-e9-9b-bb-e8-a8-8a-e5-9f-ba-e5-bb-ba-e8-a7-92-e8-89-b2-e4-bb-bb.md",
+      "title": "智慧城市|   發展數碼經濟基建先行   電訊基建角色任重道遠",
+      "description": "",
+      "date": "2023-11-10T10:13:00.000Z",
+      "image": "/images/blog/2023/11/未命名.jpg",
+      "tags": [
+        "Cyberport",
+        "ESG",
+        "HGC",
+        "Smart City",
+        "數碼港",
+        "智慧城市"
+      ],
+      "categories": [
+        "Cyberport",
+        "ESG",
+        "HGC",
+        "Smart City",
+        "數碼港",
+        "智慧城市"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/11/e9-87-91-e8-9e-8d-e5-89-b5-e6-96-b0-e4-bb-a3-e5-b9-a3-e5-8c-96-e5-ad-98-e6-ac-be-e7-a0-94-e7-a9-b6-e5-ae-8c-e6-88-90-e8-99-9b-e6-93-ac-e8-b3-87-e7-94-a2-e8-93-84-e5-8b-a2-e5-be-85-e7-99-bc.md",
+      "title": "金融創新|   代幣化存款研究完成   虛擬資產蓄勢待發",
+      "description": "",
+      "date": "2023-11-06T06:07:00.000Z",
+      "image": "/images/blog/2023/11/Visa-亞太地區數碼貨幣業務部主管-Nischint-Sanghavi.jpg",
+      "tags": [
+        "Fintech",
+        "金融創新"
+      ],
+      "categories": [
+        "Fintech",
+        "金融創新"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/11/e7-9c-be-e5-89-b5-e6-99-82-e4-bb-a3-e6-95-b8-e7-a2-bc-e6-b8-af-e5-88-9d-e5-89-b5-e6-8a-95-e8-b3-87-e9-a0-85-e7-9b-ae-genai-e5-8f-8aesg-e6-88-90-e7-82-ba-e6-8a-95-e8-b3-87-e6-96-b0-e8-b2-b4.md",
+      "title": "眾創時代| 數碼港初創投資項目    GenAI及ESG成為投資新貴",
+      "description": "",
+      "date": "2023-11-06T02:56:00.000Z",
+      "image": "/images/blog/2023/11/CVCF-1024x682.jpg",
+      "tags": [
+        "Cyberport",
+        "創科圈",
+        "數碼港",
+        "眾創時代"
+      ],
+      "categories": [
+        "Cyberport",
+        "創科圈",
+        "數碼港",
+        "眾創時代"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/11/e4-ba-ba-e5-b7-a5-e6-99-ba-e8-83-bd-e7-94-9f-e6-88-90-e5-bc-8f-e4-ba-ba-e5-b7-a5-e6-99-ba-e8-83-bd-e6-8a-80-e8-a1-93-e7-99-bc-e5-b1-95-e8-bf-85-e9-80-9f-e9-87-8d-e5-a1-91-e8-ae-8a-e9-9d-a9.md",
+      "title": "人工智能|   生成式人工智能技術發展迅速   重塑變革企業營運方式",
+      "description": "",
+      "date": "2023-11-06T01:10:00.000Z",
+      "image": "/images/blog/2023/11/GENAI.jpg",
+      "tags": [
+        "Adobe",
+        "GEN-AI"
+      ],
+      "categories": [
+        "Adobe",
+        "GEN-AI"
+      ],
+      "author": "Sharon"
+    }
+  ]
+}

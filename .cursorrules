@@ -1,0 +1,45 @@
+# Cursor AI Rules for IT-Square Project
+
+## Project Context
+This is a Next.js news website with AWS infrastructure using a unified S3-based pipeline.
+
+### Development Environment
+- Content is loaded directly from S3 bucket: `itsquareupdatedcontent`
+- Uses local development server with S3 integration
+- Posts: `content/posts/YYYY/MM/` (in S3)
+- Images: `content/images/blog/YYYY/MM/` (in S3)
+
+### Production Environment  
+- AWS Region: `ap-east-1` (Hong Kong)
+- S3 Bucket: `itsquareupdatedcontent`
+- Content stored in S3 with prefix `content/`
+- Uses ECS, Lambda, DynamoDB infrastructure
+
+## Credentials & Configuration
+- AWS credentials: `/Users/singwaijong/itsquare_react/aws/credentials`
+- AWS config: `/Users/singwaijong/itsquare_react/aws/config`
+- Amplify config: `/Users/singwaijong/itsquare_react/amplify/`
+
+## Key Directories
+- `src/` - Next.js source code
+- `content/` - Production content (S3 metadata)
+- `aws/` - AWS credentials & config
+- `amplify/` - Amplify configuration
+- `scripts/` - Deployment scripts
+- `lambda/` - Lambda functions
+
+## Common Commands
+- `npm run dev` - Start development server (uses S3 content)
+- `npm run build` - Build for production
+- `npm run deploy:incremental` - Deploy incremental updates
+
+## Important Notes
+1. Development and production both use S3 content (unified pipeline)
+2. Never commit AWS credentials
+3. Content is managed directly in S3
+4. Check PROJECT_CONTEXT.md for detailed information
+
+## When Helping
+- Focus on S3-based content loading
+- Reference S3 bucket for all content scenarios
+- Check existing AWS configuration before suggesting changes

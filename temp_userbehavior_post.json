@@ -1,0 +1,385 @@
+{
+    "Items": [
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "view"
+            },
+            "timestamp": {
+                "S": "2025-09-08T11:20:46.362Z"
+            },
+            "contentType": {
+                "S": "post"
+            },
+            "referrer": {
+                "S": ""
+            },
+            "sessionId": {
+                "S": "session-1757306732569-l979jsxfq"
+            },
+            "dwellMs": {
+                "N": "1000"
+            },
+            "contentId": {
+                "S": "post:20250906dyson"
+            },
+            "userId": {
+                "S": "e8ff40aebc25c63f44256079c255fe9cc187cee52dea2ac3ac2ddcc7388765ef"
+            },
+            "searchQuery": {
+                "S": "Dyson 推出全新家居科技產品，革新清潔與空氣淨化體驗"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "view"
+            },
+            "timestamp": {
+                "S": "2025-09-08T11:20:46.364Z"
+            },
+            "contentType": {
+                "S": "post"
+            },
+            "referrer": {
+                "S": ""
+            },
+            "sessionId": {
+                "S": "session-1757306732569-l979jsxfq"
+            },
+            "dwellMs": {
+                "N": "1000"
+            },
+            "contentId": {
+                "S": "post:20250906dyson"
+            },
+            "userId": {
+                "S": "e8ff40aebc25c63f44256079c255fe9cc187cee52dea2ac3ac2ddcc7388765ef"
+            },
+            "searchQuery": {
+                "S": "Dyson 推出全新家居科技產品，革新清潔與空氣淨化體驗"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "view"
+            },
+            "timestamp": {
+                "S": "2025-09-08T11:20:56.069Z"
+            },
+            "contentType": {
+                "S": "post"
+            },
+            "referrer": {
+                "S": ""
+            },
+            "sessionId": {
+                "S": "session-1757306732569-l979jsxfq"
+            },
+            "dwellMs": {
+                "N": "6134"
+            },
+            "contentId": {
+                "S": "post:20250906dyson"
+            },
+            "userId": {
+                "S": "e8ff40aebc25c63f44256079c255fe9cc187cee52dea2ac3ac2ddcc7388765ef"
+            },
+            "searchQuery": {
+                "S": "Dyson 推出全新家居科技產品，革新清潔與空氣淨化體驗"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "view"
+            },
+            "timestamp": {
+                "S": "2025-09-08T11:20:56.079Z"
+            },
+            "contentType": {
+                "S": "post"
+            },
+            "referrer": {
+                "S": ""
+            },
+            "sessionId": {
+                "S": "session-1757306732569-l979jsxfq"
+            },
+            "dwellMs": {
+                "N": "6134"
+            },
+            "contentId": {
+                "S": "post:20250906dyson"
+            },
+            "userId": {
+                "S": "e8ff40aebc25c63f44256079c255fe9cc187cee52dea2ac3ac2ddcc7388765ef"
+            },
+            "searchQuery": {
+                "S": "Dyson 推出全新家居科技產品，革新清潔與空氣淨化體驗"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "view"
+            },
+            "timestamp": {
+                "S": "2025-09-08T13:23:56.951Z"
+            },
+            "contentType": {
+                "S": "post"
+            },
+            "referrer": {
+                "S": ""
+            },
+            "sessionId": {
+                "S": "session-1757306732569-l979jsxfq"
+            },
+            "dwellMs": {
+                "N": "7328014"
+            },
+            "contentId": {
+                "S": "post:20250906dyson"
+            },
+            "userId": {
+                "S": "e8ff40aebc25c63f44256079c255fe9cc187cee52dea2ac3ac2ddcc7388765ef"
+            },
+            "searchQuery": {
+                "S": "Dyson 推出全新家居科技產品，革新清潔與空氣淨化體驗"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            }
+        },
+        {
+            "userAgent": {
+                "S": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+            },
+            "ipAddress": {
+                "S": "::1"
+            },
+            "action": {
+                "S": "view"
+            },
+            "timestamp": {
+                "S": "2025-09-08T13:23:56.973Z"
+            },
+            "contentType": {
+                "S": "post"
+            },
+            "referrer": {
+                "S": ""
+            },
+            "sessionId": {
+                "S": "session-1757306732569-l979jsxfq"
+            },
+            "dwellMs": {
+                "N": "7328015"
+            },
+            "contentId": {
+                "S": "post:20250906dyson"
+            },
+            "userId": {
+                "S": "e8ff40aebc25c63f44256079c255fe9cc187cee52dea2ac3ac2ddcc7388765ef"
+            },
+            "searchQuery": {
+                "S": "Dyson 推出全新家居科技產品，革新清潔與空氣淨化體驗"
+            },
+            "category": {
+                "S": "AI/人工智能"
+            },
+            "tags": {
+                "L": [
+                    {
+                        "S": "家居科技"
+                    },
+                    {
+                        "S": "空氣淨化"
+                    },
+                    {
+                        "S": "無線吸塵機"
+                    },
+                    {
+                        "S": "Dyson"
+                    },
+                    {
+                        "S": "Dyson V16 Piston Animal"
+                    },
+                    {
+                        "S": "寵物無線吸塵機"
+                    },
+                    {
+                        "S": " 空氣清新機"
+                    }
+                ]
+            }
+        }
+    ],
+    "Count": 6,
+    "ScannedCount": 6,
+    "ConsumedCapacity": null
+}

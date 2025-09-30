@@ -1,0 +1,170 @@
+{
+  "items": [
+    {
+      "key": "content/posts/2023/10/e6-99-ba-e6-85-a7-e5-9f-8e-e5-b8-82-e8-81-9a-e7-84-a6-e4-ba-ba-e5-b7-a5-e6-99-ba-e8-83-bd-e9-a9-85-e5-8b-95-e7-b6-a0-e8-89-b2-e7-a7-91-e6-8a-80-e7-a2-ba-e7-ab-8b-e9-9b-b6-e7-a2-b3-e7-9b-ae.md",
+      "title": "智慧城市|   聚焦人工智能驅動綠色科技     確立零碳目標數碼轉型",
+      "description": "",
+      "date": "2023-10-30T01:25:00.000Z",
+      "image": "/images/blog/2023/11/EcoExpo-1024x433.jpg",
+      "tags": [
+        "Smart City"
+      ],
+      "categories": [
+        "Smart City"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/10/fintech-e9-87-91-e8-9e-8d-e5-89-b5-e6-96-b0-e6-9d-9c-e6-8b-9c-e6-8e-a8-e5-8b-95-e7-b6-93-e6-bf-9f-e8-bd-89-e5-9e-8b-e8-99-9b-e6-93-ac-e8-b3-87-e7-94-a2-e8-88-87-e6-b8-af-e4-ba-92-e9-80-9a.md",
+      "title": "FinTech| 金融創新|   杜拜推動經濟轉型   虛擬資產與港互通",
+      "description": "",
+      "date": "2023-10-20T01:11:00.000Z",
+      "image": "/images/blog/2023/10/GITEX.jpg",
+      "tags": [
+        "Fintech",
+        "創科廣場",
+        "金融創新",
+        "金融科技"
+      ],
+      "categories": [
+        "Fintech",
+        "創科廣場",
+        "金融創新",
+        "金融科技"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/10/e7-9c-be-e5-89-b5-e6-99-82-e4-bb-a3-e5-bb-a0-e5-95-86-e6-9c-83-e7-94-a2-e6-a5-ad-e5-8c-96-e7-a7-91-e7-a0-94-e4-b8-ad-e8-a9-a6-e8-bd-89-e5-8c-96-e5-8a-a9-e8-90-bd-e6-88-90-e9-87-8f-e7-94-a2.md",
+      "title": "眾創時代|   廠商會產業化科研   中試轉化助落成量產",
+      "description": "",
+      "date": "2023-10-16T02:02:00.000Z",
+      "image": "/images/blog/2023/10/1016-CMA-1.jpg",
+      "tags": [
+        "HKSTP",
+        "創科圈",
+        "眾創時代",
+        "碳中和",
+        "科學園",
+        "科技創新",
+        "香港科技園"
+      ],
+      "categories": [
+        "HKSTP",
+        "創科圈",
+        "眾創時代",
+        "碳中和",
+        "科學園",
+        "科技創新",
+        "香港科技園"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/10/e6-9c-aa-e4-be-86-e6-95-99-e8-82-b2-e4-b8-ad-e4-bf-a1-e5-9c-8b-e9-9a-9b-e9-9b-bb-e8-a8-8acpc-e6-95-b8-e6-93-9a-e4-b8-ad-e5-bf-83-e4-b9-8b-e6-97-85-e5-95-9f-e7-99-bc-e5-ad-b8-e7-94-9f-e7-a7-91.md",
+      "title": "未來教育|   中信國際電訊CPC數據中心之旅   啟發學生科技創新思維",
+      "description": "",
+      "date": "2023-10-11T17:41:50.000Z",
+      "image": "/images/blog/2023/10/Pic1-1024x683.jpg",
+      "tags": [
+        "AI",
+        "AR",
+        "Artificial Intelligence",
+        "CPC",
+        "CU",
+        "Cyber Security",
+        "Data protection",
+        "DataHOUSE",
+        "Digital Transformation",
+        "Digital Workplace",
+        "EdTech",
+        "中信電訊",
+        "創科圈",
+        "教育科技",
+        "數據分析",
+        "數碼轉型",
+        "新科技速遞",
+        "未來教育"
+      ],
+      "categories": [
+        "AI",
+        "AR",
+        "Artificial Intelligence",
+        "CPC",
+        "CU",
+        "Cyber Security",
+        "Data protection",
+        "DataHOUSE",
+        "Digital Transformation",
+        "Digital Workplace",
+        "EdTech",
+        "中信電訊",
+        "創科圈",
+        "教育科技",
+        "數據分析",
+        "數碼轉型",
+        "新科技速遞",
+        "未來教育"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/10/e6-99-ba-e6-85-a7-e5-9f-8e-e5-b8-82-ai-e7-a7-91-e6-8a-80-e5-8a-a9-e8-9e-8d-e5-90-88-e6-95-99-e8-82-b2-e5-ae-98-e5-ad-b8-e7-a0-94-e8-bd-89-e5-8c-96-e5-89-b5-e6-96-b0-e6-88-90-e6-9e-9c.md",
+      "title": "智慧城市|   AI科技助融合教育   <strong>官學研轉化創新成果</strong>",
+      "description": "",
+      "date": "2023-10-09T03:33:00.000Z",
+      "image": "/images/blog/2023/10/1009school-1a-768x1024.jpg",
+      "tags": [
+        "5G",
+        "Robotics",
+        "Smart City",
+        "創科圈",
+        "教育科技",
+        "數據分析",
+        "智慧城市",
+        "未來教育"
+      ],
+      "categories": [
+        "5G",
+        "Robotics",
+        "Smart City",
+        "創科圈",
+        "教育科技",
+        "數據分析",
+        "智慧城市",
+        "未來教育"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/10/e7-94-9f-e6-88-90-e5-bc-8fai-e7-99-bc-e5-b1-95-e8-bf-85-e9-80-9f-e7-99-be-e8-8a-b1-e9-bd-8a-e6-94-be-e5-8a-a0-e6-8c-81-e7-b6-b2-e7-b5-a1-e4-bf-9d-e5-ae-89.md",
+      "title": "生成式AI發展迅速   百花齊放加持網絡保安",
+      "description": "",
+      "date": "2023-10-02T00:51:00.000Z",
+      "image": "/images/blog/2023/10/GENAIsecurity.jpg",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "Cyber Security",
+        "Data protection",
+        "人工智能",
+        "科技罪案",
+        "網絡保安",
+        "網絡安全",
+        "網絡攻擊"
+      ],
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "Cyber Security",
+        "Data protection",
+        "人工智能",
+        "科技罪案",
+        "網絡保安",
+        "網絡安全",
+        "網絡攻擊"
+      ],
+      "author": "Sharon"
+    }
+  ]
+}

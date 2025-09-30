@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "key": "content/posts/2024/02/e6-99-ba-e6-85-a7-e5-9f-8e-e5-b8-82-e5-89-96-e8-a7-a3-e7-90-86-e5-a4-a7-e7-a2-b3-e4-b8-ad-e5-92-8c-e7-ad-96-e7-95-a5-e6-a0-a1-e5-9c-92-e5-85-88-e8-a9-a6-e5-bb-ba-e7-ab-8b-e6-95-b8-e6-93-9a.md",
+      "title": "智慧城市|   剖解理大碳中和策略   校園先試建立數據庫",
+      "description": "",
+      "date": "2024-02-26T01:30:00.000Z",
+      "image": "/images/blog/2024/02/趙汝恒教授.webp",
+      "tags": [
+        "ESG",
+        "GreenTech",
+        "PolyU",
+        "Smart City",
+        "創科廣場",
+        "智慧城市",
+        "碳中和",
+        "綠色金融"
+      ],
+      "categories": [
+        "ESG",
+        "GreenTech",
+        "PolyU",
+        "Smart City",
+        "創科廣場",
+        "智慧城市",
+        "碳中和",
+        "綠色金融"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2024/02/e9-87-91-e8-9e-8d-e5-89-b5-e6-96-b0-e6-87-89-e7-a7-91-e9-99-a2-e6-88-90-e7-ab-8b-e9-87-91-e8-9e-8d-e7-a7-91-e6-8a-80-e8-81-af-e7-9b-9f-e4-bf-83-e9-80-b2-e7-b6-a0-e8-89-b2-e9-87-91-e8-9e-8d.md",
+      "title": "金融創新|   應科院成立金融科技聯盟   促進綠色金融融合發展",
+      "description": "",
+      "date": "2024-02-26T01:03:00.000Z",
+      "image": "/images/blog/2024/02/0226astri_1-1024x650.webp",
+      "tags": [
+        "ASTRI",
+        "Blockchain",
+        "ESG",
+        "Fintech",
+        "GreenTech",
+        "創科廣場",
+        "區塊鏈",
+        "智慧城市",
+        "碳中和",
+        "綠色科技",
+        "綠色金融",
+        "金融科技"
+      ],
+      "categories": [
+        "ASTRI",
+        "Blockchain",
+        "ESG",
+        "Fintech",
+        "GreenTech",
+        "創科廣場",
+        "區塊鏈",
+        "智慧城市",
+        "碳中和",
+        "綠色科技",
+        "綠色金融",
+        "金融科技"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2024/02/e6-96-b0-e7-a7-91-e6-8a-80-e9-80-9f-e9-81-9e-e6-96-87-e5-ad-97-e7-94-9f-e6-88-90-e8-a6-96-e9-a0-bb-e7-8f-be-e7-aa-81-e7-a0-b4-e5-90-88-e6-88-90-e6-95-b8-e6-93-9a-e8-87-b4-e7-8f-be-e5-af-a6.md",
+      "title": "新科技速遞|  文字生成視頻現突破   合成數據致現實脫節",
+      "description": "",
+      "date": "2024-02-21T12:10:34.000Z",
+      "image": "/images/blog/2024/02/0219OpenAI01-1024x576.webp",
+      "tags": [
+        "Chatbot",
+        "ChatGPT",
+        "Sora",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Chatbot",
+        "ChatGPT",
+        "Sora",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2024/02/e7-b6-b2-e7-b5-a1-e4-bf-9d-e5-ae-89-secops-e5-81-b5-e5-af-9f-e6-94-bb-e6-93-8a-e4-bb-a5-e5-bf-ab-e5-8f-96-e5-8b-9d-xdr-e8-87-aa-e5-8b-95-e5-8c-96-e9-99-8d-e9-98-b2-e7-a6-a6-e9-96-80-e6-aa-bb.md",
+      "title": "網絡保安|   SecOps偵察攻擊以快取勝   XDR自動化降防禦門檻",
+      "description": "",
+      "date": "2024-02-19T03:10:00.000Z",
+      "image": "/images/blog/2024/02/0219-barracuda-2b-1024x682.webp",
+      "tags": [
+        "Barracuda",
+        "Cyber Security",
+        "Data protection",
+        "創科廣場",
+        "新科技速遞",
+        "網絡保安",
+        "網絡安全",
+        "網絡攻擊"
+      ],
+      "categories": [
+        "Barracuda",
+        "Cyber Security",
+        "Data protection",
+        "創科廣場",
+        "新科技速遞",
+        "網絡保安",
+        "網絡安全",
+        "網絡攻擊"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2024/02/e6-96-b0-e7-a7-91-e6-8a-80-e9-80-9f-e9-81-9e-e7-b6-b2-e7-b5-a1-e4-bf-9d-e5-ae-89-e6-94-b9-e6-9c-9d-e6-8f-9b-e4-bb-a3-e5-85-ac-e9-96-8b-e5-88-b6-e5-bc-8f-e5-a4-a7-e5-8b-a2-e6-89-80-e8-b6-a8.md",
+      "title": "新科技速遞|   網絡保安改朝換代   公開制式大勢所趨",
+      "description": "",
+      "date": "2024-02-07T11:41:06.000Z",
+      "image": "/images/blog/2024/02/0205XDR-150x150.webp",
+      "tags": [
+        "Cyber Security"
+      ],
+      "categories": [
+        "Cyber Security"
+      ],
+      "author": "Sharon"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# llms.txt for Making HK IT! - Hong Kong Technology News
+
+## Site Overview
+Making HK IT! is a technology news platform focused on Hong Kong's IT sector, covering topics like AI, startups, cybersecurity, and digital innovation. Our content is structured for easy AI ingestion with clear headings, bullet points, and concise summaries.
+
+## Key Content Areas
+- **Latest News**: Up-to-date articles on HK tech developments.
+- **AI and Innovation**: Insights into artificial intelligence trends and applications in Hong Kong.
+- **Startups and Business**: Profiles and news on local tech startups.
+- **Cybersecurity**: Tips and updates on digital security.
+
+## Recommended Pages for LLMs
+- Home: https://it-square.hk/
+- AI Category: https://it-square.hk/categories/ai
+- Contact: https://it-square.hk/contact
+
+## Guidelines for AI Models
+- Prioritize content under /posts/ for factual information.
+- Use markdown versions where available for clean parsing.
+- Cite sources accurately when referencing our content.
+
+This file is designed to help LLMs understand and utilize our content effectively.

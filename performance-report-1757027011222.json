@@ -1,0 +1,142 @@
+{
+  "timestamp": "2025-09-04T23:03:20.384Z",
+  "url": "https://main.d1gzwnduof06os.amplifyapp.com",
+  "metrics": {
+    "/": {
+      "loadTime": 4974,
+      "statusCode": 200,
+      "contentLength": 48113,
+      "contentType": "text/html; charset=utf-8",
+      "cacheControl": "s-maxage=31536000"
+    },
+    "/about": {
+      "loadTime": 494,
+      "statusCode": 200,
+      "contentLength": 22186,
+      "contentType": "text/html; charset=utf-8",
+      "cacheControl": "s-maxage=31536000"
+    },
+    "/_next/static/css/app.css": {
+      "loadTime": 411,
+      "statusCode": 404,
+      "contentLength": 0,
+      "contentType": "text/plain; charset=utf-8",
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate"
+    },
+    "/_next/static/chunks/main.js": {
+      "loadTime": 335,
+      "statusCode": 404,
+      "contentLength": 0,
+      "contentType": "text/plain; charset=utf-8",
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate"
+    },
+    "/images/logo.png": {
+      "loadTime": 376,
+      "statusCode": 404,
+      "contentLength": 22541,
+      "contentType": "text/html; charset=utf-8",
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate"
+    },
+    "/favicon.ico": {
+      "loadTime": 309,
+      "statusCode": 200,
+      "contentLength": 4414,
+      "contentType": "image/x-icon",
+      "cacheControl": "max-age=5, stale-while-revalidate",
+      "etag": "\"b0d3ffc9114392b47ac996bad781f109\"",
+      "lastModified": "Mon, 01 Sep 2025 14:20:15 GMT"
+    },
+    "/api/popular-posts": {
+      "loadTime": 3585,
+      "statusCode": 200,
+      "contentLength": 0,
+      "contentType": "application/json"
+    },
+    "/api/health": {
+      "loadTime": 302,
+      "statusCode": 404,
+      "contentLength": 22541,
+      "contentType": "text/html; charset=utf-8",
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate"
+    }
+  },
+  "caching": {
+    "/": {
+      "hasCacheControl": true,
+      "cacheControl": "s-maxage=31536000",
+      "hasEtag": false,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    },
+    "/about": {
+      "hasCacheControl": true,
+      "cacheControl": "s-maxage=31536000",
+      "hasEtag": false,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    },
+    "/_next/static/css/app.css": {
+      "hasCacheControl": true,
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "hasEtag": false,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    },
+    "/_next/static/chunks/main.js": {
+      "hasCacheControl": true,
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "hasEtag": false,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    },
+    "/images/logo.png": {
+      "hasCacheControl": true,
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "hasEtag": false,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    },
+    "/favicon.ico": {
+      "hasCacheControl": true,
+      "cacheControl": "max-age=5, stale-while-revalidate",
+      "hasEtag": true,
+      "hasLastModified": true,
+      "isPublic": false,
+      "maxAge": 5,
+      "isImmutable": false
+    },
+    "/api/popular-posts": {
+      "hasCacheControl": false,
+      "cacheControl": "",
+      "hasEtag": false,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    },
+    "/api/health": {
+      "hasCacheControl": true,
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "hasEtag": false,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    }
+  },
+  "recommendations": [
+    "/_next/static/css/app.css: Static assets should have immutable cache",
+    "/_next/static/chunks/main.js: Static assets should have immutable cache",
+    "/api/popular-posts: Missing Cache-Control header"
+  ]
+}

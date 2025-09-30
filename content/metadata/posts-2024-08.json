@@ -1,0 +1,294 @@
+{
+  "items": [
+    {
+      "key": "content/posts/2024/08/ntt-p5g-smartcity-post-on-20240826.md",
+      "title": " 智慧城市| NTT推私有5G網絡    助智慧城市創新",
+      "description": "",
+      "date": "2024-08-26T01:44:00.000Z",
+      "image": "/images/blog/2024/08/NTT-1.webp",
+      "tags": [
+        "5G",
+        "Smart City",
+        "創科廣場",
+        "智慧城市"
+      ],
+      "categories": [
+        "5G",
+        "Smart City",
+        "創科廣場",
+        "智慧城市"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2024/08/n-hop-post-on-20240826.md",
+      "title": "自主科技| 開源研發進駐香港   港助尖端技術落地",
+      "description": "",
+      "date": "2024-08-26T00:13:00.000Z",
+      "image": "/images/blog/2024/08/0826daocloud03.webp",
+      "tags": [
+        "創科廣場",
+        "自主科技"
+      ],
+      "categories": [
+        "創科廣場",
+        "自主科技"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2024/08/e6-96-b0-e7-a7-91-e6-8a-80-e9-80-9f-e9-81-9e-delf-e6-95-b8-e7-a2-bc-e5-a8-9b-e6-a8-82-e9-a0-98-e8-a2-96-e8-ab-96-e5-a3-87-ai-e5-a8-9b-e6-a8-82-e6-95-99-e8-82-b2-e7-99-be-e8-8a-b1-e9-bd-8a.md",
+      "title": "新科技速遞| DELF|  數碼娛樂領袖論壇   AI娛樂教育百花齊放",
+      "description": "",
+      "date": "2024-08-19T03:09:00.000Z",
+      "image": "/images/blog/2024/08/0819delf01.jpg",
+      "tags": [
+        "Cyberport",
+        "創科圈",
+        "創科廣場",
+        "數碼港",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Cyberport",
+        "創科圈",
+        "創科廣場",
+        "數碼港",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2024/08/e7-b6-b2-e7-b5-a1-e5-ae-89-e5-85-a8-mit-e5-b0-87ai-e9-a2-a8-e9-9a-aa-e5-88-86-e9-96-80-e5-88-a5-e9-a1-9e-e5-84-b2-e5-ad-98-e5-ba-ab-e5-8d-94-e5-8a-a9-e6-a5-ad.md",
+      "title": "網絡安全|  MIT將AI風險分門別類      儲存庫協助業界評估",
+      "description": "",
+      "date": "2024-08-19T01:11:00.000Z",
+      "image": "/images/blog/2024/08/0819AIRisk_01-300x289.png",
+      "tags": [
+        "網絡保安",
+        "網絡安全",
+        "網絡攻擊"
+      ],
+      "categories": [
+        "網絡保安",
+        "網絡安全",
+        "網絡攻擊"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2024/08/ai-healthcare-001.md",
+      "title": "人工智能在医疗诊断中的革命性应用",
+      "description": "探索AI如何通过深度学习技术提高疾病诊断准确率，特别是在癌症早期筛查方面的突破",
+      "date": "2024-08-15T10:00:00.000Z",
+      "image": "https://example-bucket.s3.amazonaws.com/ai-medical-diagnosis.jpg",
+      "tags": [
+        "AI",
+        "医疗",
+        "深度学习",
+        "诊断"
+      ],
+      "categories": [
+        "AI/人工智能"
+      ],
+      "author": "医疗科技研究员 李明"
+    },
+    {
+      "key": "content/posts/2024/08/green-finance-001.md",
+      "title": "绿色债券市场2024年展望与投资机会",
+      "description": "分析全球绿色债券发行趋势，探讨ESG投资如何推动可持续金融发展",
+      "date": "2024-08-14T09:30:00.000Z",
+      "image": "https://example-bucket.s3.amazonaws.com/green-bonds-2024.jpg",
+      "tags": [
+        "绿色金融",
+        "ESG",
+        "债券",
+        "投资"
+      ],
+      "categories": [
+        "綠色金融"
+      ],
+      "author": "绿色金融专家 陈慧"
+    },
+    {
+      "key": "content/posts/2024/08/cybersecurity-001.md",
+      "title": "2024年网络安全威胁趋势与防御策略",
+      "description": "深度分析AI驱动的网络攻击新形态，以及企业如何构建多层防御体系",
+      "date": "2024-08-13T14:00:00.000Z",
+      "image": "https://example-bucket.s3.amazonaws.com/cybersecurity-trends-2024.jpg",
+      "tags": [
+        "网络安全",
+        "AI攻击",
+        "防御策略",
+        "威胁检测"
+      ],
+      "categories": [
+        "網絡安全/Cyber Security"
+      ],
+      "author": "网络安全总监 张伟"
+    },
+    {
+      "key": "content/posts/2024/08/fintech-001.md",
+      "title": "央行数字货币(CBDC)对香港金融生态的影响",
+      "description": "探讨数字港元如何重塑支付系统，以及对传统银行业务模式的挑战与机遇",
+      "date": "2024-08-12T11:00:00.000Z",
+      "image": "https://example-bucket.s3.amazonaws.com/cbdc-hong-kong.jpg",
+      "tags": [
+        "CBDC",
+        "数字货币",
+        "支付系统",
+        "银行业务"
+      ],
+      "categories": [
+        "金融創新科技/FinTech"
+      ],
+      "author": "金融科技分析师 王嘉"
+    },
+    {
+      "key": "content/posts/2024/08/e6-96-b0-e7-a7-91-e6-8a-80-e9-80-9f-e9-81-9e-e5-9c-96-e5-bd-a2-e6-95-b8-e6-93-9a-e5-ba-ab-e6-87-89-e7-94-a8-e5-bb-a3-e6-b3-9b-e4-ba-ba-e5-b7-a5-e6-99-ba-e8-83-bd-e6-88-90-e6-9c-80-e6-96-b0.md",
+      "title": "新科技速遞|   圖形數據庫應用廣泛   人工智能成最新亮點",
+      "description": "",
+      "date": "2024-08-12T02:26:00.000Z",
+      "image": "/images/blog/2024/08/0812graph02-300x300.webp",
+      "tags": [
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2024/08/hk-innovation-001.md",
+      "title": "香港科学园AI研发突破：本地初创获国际投资",
+      "description": "介绍香港科技园内人工智能初创企业的最新研发成果，以及获得的国际风险投资",
+      "date": "2024-08-11T16:00:00.000Z",
+      "image": "https://example-bucket.s3.amazonaws.com/hkstp-ai-breakthrough.jpg",
+      "tags": [
+        "香港",
+        "科学园",
+        "AI",
+        "初创企业"
+      ],
+      "categories": [
+        "香港創科"
+      ],
+      "author": "科技记者 林小美"
+    },
+    {
+      "key": "content/posts/2024/08/cloud-computing-001.md",
+      "title": "混合云架构在企业数字化转型中的关键作用",
+      "description": "分析企业如何构建混合云架构，平衡数据安全与计算效率的需求",
+      "date": "2024-08-10T13:00:00.000Z",
+      "image": "https://example-bucket.s3.amazonaws.com/hybrid-cloud-architecture.jpg",
+      "tags": [
+        "云计算",
+        "混合云",
+        "数字化转型",
+        "企业架构"
+      ],
+      "categories": [
+        "雲運算"
+      ],
+      "author": "云计算架构师 刘强"
+    },
+    {
+      "key": "content/posts/2024/08/smart-city-001.md",
+      "title": "香港智慧城市蓝图2030：IoT与5G技术应用场景",
+      "description": "深入探讨香港智慧城市发展的具体应用场景，包括智能交通、环境监测和公共服务",
+      "date": "2024-08-09T10:30:00.000Z",
+      "image": "https://example-bucket.s3.amazonaws.com/hk-smart-city-2030.jpg",
+      "tags": [
+        "智慧城市",
+        "IoT",
+        "5G",
+        "香港"
+      ],
+      "categories": [
+        "智慧城市"
+      ],
+      "author": "智慧城市专家 赵博士"
+    },
+    {
+      "key": "content/posts/2024/08/new-energy-001.md",
+      "title": "氢能源技术突破：香港新能源发展迎来新机遇",
+      "description": "介绍氢能源技术的最新进展，以及香港在新能源领域的投资和政策支持",
+      "date": "2024-08-08T15:00:00.000Z",
+      "image": "https://example-bucket.s3.amazonaws.com/hydrogen-energy-hk.jpg",
+      "tags": [
+        "氢能源",
+        "新能源",
+        "清洁能源",
+        "碳中和"
+      ],
+      "categories": [
+        "新能源"
+      ],
+      "author": "新能源研究员 陈博士"
+    },
+    {
+      "key": "content/posts/2024/08/ai-sen-waic-cyberport-cityu-canpanion-post-on-20240805.md",
+      "title": "眾創時代|   人工智能評估網上平台     助識別SEN學童",
+      "description": "",
+      "date": "2024-08-05T02:08:00.000Z",
+      "image": "/images/blog/2024/08/canpanion.webp",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "CityU",
+        "Cyberport",
+        "EdTech",
+        "人工智能",
+        "創科圈",
+        "大灣區",
+        "大灣區創科",
+        "數碼港",
+        "未來教育",
+        "眾創時代"
+      ],
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "CityU",
+        "Cyberport",
+        "EdTech",
+        "人工智能",
+        "創科圈",
+        "大灣區",
+        "大灣區創科",
+        "數碼港",
+        "未來教育",
+        "眾創時代"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2024/08/e8-87-aa-e4-b8-bb-e7-a7-91-e6-8a-80-gan-e5-a4-96-e5-bb-b6-e6-bd-9b-e5-8a-9b-e7-84-a1-e9-99-90-e6-b8-af-e5-be-ae-e9-9b-bb-e5-ad-90-e8-b6-95-e4-b8-8a-e5-bf-ab-e8-bb-8a.md",
+      "title": "自主科技|   GaN外延潛力無限   港微電子趕上快車",
+      "description": "",
+      "date": "2024-08-05T01:53:00.000Z",
+      "image": "/images/blog/2024/08/GaN.webp",
+      "tags": [
+        "HKSTP",
+        "創科圈",
+        "創科廣場",
+        "微電子",
+        "科學園",
+        "自主科技",
+        "香港科技園"
+      ],
+      "categories": [
+        "HKSTP",
+        "創科圈",
+        "創科廣場",
+        "微電子",
+        "科學園",
+        "自主科技",
+        "香港科技園"
+      ],
+      "author": "Sharon"
+    }
+  ]
+}

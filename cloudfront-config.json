@@ -1,0 +1,6 @@
+{
+  "distributionId": "E1UJEQZPEUQ621",
+  "distributionDomain": "d1qlyosxoepn9l.cloudfront.net",
+  "customDomains": ["it-square.hk", "www.it-square.hk"],
+  "certificateArn": "arn:aws:acm:us-east-1:891377044387:certificate/44764365-f5dd-4607-84ae-da273dc6ddec"
+}

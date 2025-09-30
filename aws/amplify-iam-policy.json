@@ -1,0 +1,52 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "dynamodb:GetItem",
+        "dynamodb:PutItem",
+        "dynamodb:UpdateItem",
+        "dynamodb:DeleteItem",
+        "dynamodb:Query",
+        "dynamodb:Scan",
+        "dynamodb:BatchGetItem",
+        "dynamodb:BatchWriteItem"
+      ],
+      "Resource": [
+        "arn:aws:dynamodb:ap-east-1:*:table/MediaInvites",
+        "arn:aws:dynamodb:ap-east-1:*:table/MediaInvites/index/*",
+        "arn:aws:dynamodb:ap-east-1:*:table/it-square-topics",
+        "arn:aws:dynamodb:ap-east-1:*:table/it-square-topics/index/*",
+        "arn:aws:dynamodb:ap-east-1:*:table/PopularityScores",
+        "arn:aws:dynamodb:ap-east-1:*:table/PopularityScores/index/*"
+      ]
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetObject",
+        "s3:PutObject",
+        "s3:DeleteObject",
+        "s3:ListBucket"
+      ],
+      "Resource": [
+        "arn:aws:s3:::itsquareupdatedcontent",
+        "arn:aws:s3:::itsquareupdatedcontent/*"
+      ]
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "ssm:PutParameter",
+        "ssm:GetParameter",
+        "ssm:GetParameters",
+        "ssm:GetParametersByPath",
+        "ssm:DescribeParameters"
+      ],
+      "Resource": [
+        "arn:aws:ssm:ap-east-1:*:parameter/amplify/d1gzwnduof06os/*"
+      ]
+    }
+  ]
+}

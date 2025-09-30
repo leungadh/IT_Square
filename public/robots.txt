@@ -1,0 +1,69 @@
+# Robots.txt for IT Square - Hong Kong Technology News
+# https://it-square.hk
+
+User-agent: *
+Allow: /
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
+
+# Block access to admin and private areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /_next/
+Disallow: /test-data/
+
+# Allow access to important files
+Allow: /api/sitemap.xml
+Allow: /favicon.ico
+Allow: /*.css
+Allow: /*.js
+
+# Sitemap location
+Sitemap: https://it-square.hk/sitemap.xml
+
+# Additional directives for AI crawlers and LLMs
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-delay: 5
+
+User-agent: CCBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Google-Extended
+Allow: /
+Crawl-delay: 5
+
+User-agent: anthropic-ai
+Allow: /
+Crawl-delay: 5
+
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 5
+
+# Block aggressive crawlers
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /

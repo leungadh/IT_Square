@@ -1,0 +1,42 @@
+{
+  "resolvers": [
+    {
+      "typeName": "Mutation",
+      "fieldName": "trackDetailedActivity",
+      "dataSourceName": "UserBehaviorTable",
+      "requestMappingTemplate": {
+        "version": "2018-05-29",
+        "operation": "PutItem",
+        "key": {
+          "sessionId": "$util.dynamodb.toDynamoDBJson($context.arguments.input.sessionId)",
+          "timestamp": "$util.dynamodb.toDynamoDBJson($util.time.nowISO8601())"
+        },
+        "attributeValues": {
+          "userId": "$util.dynamodb.toDynamoDBJson($context.arguments.input.userId)",
+          "action": "$util.dynamodb.toDynamoDBJson($context.arguments.input.action)",
+          "contentType": "$util.dynamodb.toDynamoDBJson($context.arguments.input.contentType)",
+          "contentId": "$util.dynamodb.toDynamoDBJson($context.arguments.input.contentId)",
+          "category": "$util.dynamodb.toDynamoDBJson($context.arguments.input.category)",
+          "tags": "$util.dynamodb.toDynamoDBJson($context.arguments.input.tags)",
+          "duration": "$util.dynamodb.toDynamoDBJson($context.arguments.input.duration)",
+          "scrollDepth": "$util.dynamodb.toDynamoDBJson($context.arguments.input.scrollDepth)",
+          "referrer": "$util.dynamodb.toDynamoDBJson($context.arguments.input.referrer)",
+          "userAgent": "$util.dynamodb.toDynamoDBJson($context.arguments.input.userAgent)",
+          "ipAddress": "$util.dynamodb.toDynamoDBJson($context.request.headers['x-forwarded-for'])",
+          "ttl": "$util.dynamodb.toDynamoDBJson($util.time.nowEpochSeconds() + 2592000)"
+        }
+      },
+      "responseMappingTemplate": "$util.toJson($context.result)"
+    }
+  ],
+  "dataSources": [
+    {
+      "name": "UserBehaviorTable",
+      "type": "AMAZON_DYNAMODB",
+      "config": {
+        "tableName": "UserBehavior",
+        "region": "us-east-1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lambda": {
+    "s3-deployment-trigger": {
+      "description": "Monitors S3 content changes and triggers content updates and search indexing",
+      "runtime": "nodejs22.x",
+      "handler": "index.handler",
+      "timeout": 900,
+      "memory": 1024,
+      "environment": {
+        "REGION": "ap-east-1",
+        "S3_BUCKET": "itsquareupdatedcontent",
+        "ECS_CLUSTER": "itsquare-deployment-cluster",
+        "ECS_TASK_DEFINITION": "itsquare-deployment-task",
+        "SUBNETS": "subnet-12345678,subnet-87654321",
+        "SECURITY_GROUPS": "sg-12345678",
+        "POSTS_PREFIX": "content/posts/",
+        "META_PREFIX": "content/meta/",
+        "SEARCH_PREFIX": "content/search/"
+      },
+      "events": {
+        "s3": {
+          "bucket": "itsquareupdatedcontent",
+          "events": ["s3:ObjectCreated:*", "s3:ObjectRemoved:*"],
+          "filter": {
+            "prefix": "content/"
+          }
+        }
+      },
+      "iamRoleStatements": [
+        {
+          "Effect": "Allow",
+          "Action": [
+            "ecs:RunTask",
+            "ecs:StopTask",
+            "ecs:DescribeTasks"
+          ],
+          "Resource": "*"
+        },
+        {
+          "Effect": "Allow",
+          "Action": [
+            "iam:PassRole"
+          ],
+          "Resource": [
+            "arn:aws:iam::*:role/ecsTaskExecutionRole",
+            "arn:aws:iam::*:role/ecsTaskRole"
+          ]
+        },
+        {
+          "Effect": "Allow",
+          "Action": [
+            "s3:GetObject",
+            "s3:ListBucket",
+            "s3:PutObject"
+          ],
+          "Resource": [
+            "arn:aws:s3:::itsquareupdatedcontent",
+            "arn:aws:s3:::itsquareupdatedcontent/*"
+          ]
+        }
+      ]
+    }
+  },
+  "deployment": {
+    "main": {
+      "trigger": "github-push",
+      "source": "github-main-branch",
+      "description": "Main branch deploys on GitHub main branch pushes (production)"
+    },
+    "staging": {
+      "trigger": "github-push", 
+      "source": "github-staging-branch",
+      "description": "Staging branch deploys on GitHub staging branch pushes (feature testing)"
+    }
+  },
+  "contentUpdates": {
+    "lambda": {
+      "trigger": "s3-content-changes",
+      "purpose": "Monitor content updates and trigger content sync (not deployments)",
+      "description": "Lambda monitors S3 for content changes and triggers content synchronization tasks"
+    }
+  }
+}

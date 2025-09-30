@@ -1,0 +1,13 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="250" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="72" font-weight="bold">Making HK IT!</text>
+  <text x="600" y="320" text-anchor="middle" fill="#93c5fd" font-family="Arial, sans-serif" font-size="36">The Future is Here</text>
+  <text x="600" y="380" text-anchor="middle" fill="#dbeafe" font-family="Arial, sans-serif" font-size="24">Leading Hong Kong Technology News Platform</text>
+  <text x="600" y="450" text-anchor="middle" fill="#bfdbfe" font-family="Arial, sans-serif" font-size="20">AI • Startups • Digital Transformation • Market Analysis</text>
+</svg>

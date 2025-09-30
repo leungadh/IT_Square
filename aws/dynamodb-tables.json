@@ -1,0 +1,218 @@
+{
+  "UserBehaviorTable": {
+    "TableName": "UserBehavior",
+    "KeySchema": [
+      {
+        "AttributeName": "sessionId",
+        "KeyType": "HASH"
+      },
+      {
+        "AttributeName": "timestamp",
+        "KeyType": "RANGE"
+      }
+    ],
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "sessionId",
+        "AttributeType": "S"
+      },
+      {
+        "AttributeName": "timestamp",
+        "AttributeType": "S"
+      },
+      {
+        "AttributeName": "contentId",
+        "AttributeType": "S"
+      },
+      {
+        "AttributeName": "contentType",
+        "AttributeType": "S"
+      },
+      {
+        "AttributeName": "userId",
+        "AttributeType": "S"
+      },
+      {
+        "AttributeName": "action",
+        "AttributeType": "S"
+      }
+    ],
+    "GlobalSecondaryIndexes": [
+      {
+        "IndexName": "ContentActivityIndex",
+        "KeySchema": [
+          {
+            "AttributeName": "contentId",
+            "KeyType": "HASH"
+          },
+          {
+            "AttributeName": "timestamp",
+            "KeyType": "RANGE"
+          }
+        ],
+        "Projection": {
+          "ProjectionType": "ALL"
+        },
+        "ProvisionedThroughput": {
+          "ReadCapacityUnits": 10,
+          "WriteCapacityUnits": 10
+        }
+      },
+      {
+        "IndexName": "UserActivityIndex",
+        "KeySchema": [
+          {
+            "AttributeName": "userId",
+            "KeyType": "HASH"
+          },
+          {
+            "AttributeName": "timestamp",
+            "KeyType": "RANGE"
+          }
+        ],
+        "Projection": {
+          "ProjectionType": "ALL"
+        },
+        "ProvisionedThroughput": {
+          "ReadCapacityUnits": 5,
+          "WriteCapacityUnits": 5
+        }
+      },
+      {
+        "IndexName": "ContentTypeActivityIndex",
+        "KeySchema": [
+          {
+            "AttributeName": "contentType",
+            "KeyType": "HASH"
+          },
+          {
+            "AttributeName": "timestamp",
+            "KeyType": "RANGE"
+          }
+        ],
+        "Projection": {
+          "ProjectionType": "ALL"
+        },
+        "ProvisionedThroughput": {
+          "ReadCapacityUnits": 10,
+          "WriteCapacityUnits": 10
+        }
+      }
+    ],
+    "BillingMode": "PROVISIONED",
+    "ProvisionedThroughput": {
+      "ReadCapacityUnits": 20,
+      "WriteCapacityUnits": 20
+    },
+    "StreamSpecification": {
+      "StreamEnabled": true,
+      "StreamViewType": "NEW_AND_OLD_IMAGES"
+    },
+    "TimeToLiveSpecification": {
+      "AttributeName": "ttl",
+      "Enabled": true
+    },
+    "Tags": [
+      {
+        "Key": "Environment",
+        "Value": "production"
+      },
+      {
+        "Key": "Application",
+        "Value": "ITSquare"
+      },
+      {
+        "Key": "Purpose",
+        "Value": "UserBehaviorTracking"
+      }
+    ]
+  },
+  "PostsTable": {
+    "TableName": "Posts",
+    "KeySchema": [
+      {
+        "AttributeName": "id",
+        "KeyType": "HASH"
+      }
+    ],
+    "AttributeDefinitions": [
+      {
+        "AttributeName": "id",
+        "AttributeType": "S"
+      },
+      {
+        "AttributeName": "category",
+        "AttributeType": "S"
+      },
+      {
+        "AttributeName": "publishedDate",
+        "AttributeType": "S"
+      },
+      {
+        "AttributeName": "isPublished",
+        "AttributeType": "S"
+      }
+    ],
+    "GlobalSecondaryIndexes": [
+      {
+        "IndexName": "CategoryPublishedIndex",
+        "KeySchema": [
+          {
+            "AttributeName": "category",
+            "KeyType": "HASH"
+          },
+          {
+            "AttributeName": "publishedDate",
+            "KeyType": "RANGE"
+          }
+        ],
+        "Projection": {
+          "ProjectionType": "ALL"
+        },
+        "ProvisionedThroughput": {
+          "ReadCapacityUnits": 5,
+          "WriteCapacityUnits": 5
+        }
+      },
+      {
+        "IndexName": "PublishedStatusIndex",
+        "KeySchema": [
+          {
+            "AttributeName": "isPublished",
+            "KeyType": "HASH"
+          },
+          {
+            "AttributeName": "publishedDate",
+            "KeyType": "RANGE"
+          }
+        ],
+        "Projection": {
+          "ProjectionType": "ALL"
+        },
+        "ProvisionedThroughput": {
+          "ReadCapacityUnits": 10,
+          "WriteCapacityUnits": 5
+        }
+      }
+    ],
+    "BillingMode": "PROVISIONED",
+    "ProvisionedThroughput": {
+      "ReadCapacityUnits": 15,
+      "WriteCapacityUnits": 10
+    },
+    "Tags": [
+      {
+        "Key": "Environment",
+        "Value": "production"
+      },
+      {
+        "Key": "Application",
+        "Value": "ITSquare"
+      },
+      {
+        "Key": "Purpose",
+        "Value": "ContentManagement"
+      }
+    ]
+  }
+}

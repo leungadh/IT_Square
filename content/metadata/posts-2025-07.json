@@ -1,0 +1,677 @@
+{
+  "items": [
+    {
+      "key": "content/posts/2025/07/20250801hkpc.md",
+      "title": "企業碳中和轉型挑戰與機遇",
+      "description": "香港企業碳中和轉型現狀分析，揭示資源不足與技術缺口的關鍵問題。",
+      "date": "2025-07-31T06:30:00.000Z",
+      "image": "/images/blog/2025/07/20250731hkpc.webp",
+      "tags": [
+        "環境社會管治",
+        "碳中和",
+        "企業可持續發展"
+      ],
+      "categories": [
+        "碳中和",
+        "香港創科",
+        "環境社會管治"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250731twilio.md",
+      "title": "AI個人化體驗陷落差 香港企業需重構人機互動",
+      "description": "Twilio報告揭示香港企業運用AI提升客戶體驗卻遭遇信任危機",
+      "date": "2025-07-31T01:00:00.000Z",
+      "image": "/images/blog/2025/07/20250731twilionicholaskontopouloschristopherconnollybillychan.webp",
+      "tags": [
+        "人工智能",
+        "客戶體驗",
+        "數碼轉型"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "香港創科",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/202508hkbn.md",
+      "title": "毫米波雷達技術落地長者照護 香港寬頻推智慧居家安老方案",
+      "description": "香港寬頻聯動循道衛理楊震社會服務處，採用毫米波雷達主動防跌技術，為基層長者打造免穿戴智慧安老方案",
+      "date": "2025-07-31T00:00:00.000Z",
+      "image": "/images/blog/2025/07/20250731hkbn1.webp",
+      "tags": [
+        "智慧城市",
+        "科技扶老",
+        "毫米波雷達"
+      ],
+      "categories": [
+        "創新科技",
+        "智慧家居",
+        "社區服務"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250730googleai.md",
+      "title": "Google 推出企業級 AI 影片生成新功能",
+      "description": "Google Cloud 推出 Veo 3 Fast 與 NotebookLM 影像摘要，助企業極速製作專業影片",
+      "date": "2025-07-30T01:00:00.000Z",
+      "image": "/images/blog/2025/07/20250730googleaiveo3banner.webp",
+      "tags": [
+        "人工智能",
+        "企業應用",
+        "影片生成",
+        "Google Cloud",
+        "NotebookLM"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "雲運算"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250729polyu.md",
+      "title": "理大聯手螞蟻數科 共建AI+Web3聯合實驗室",
+      "description": "香港理大與螞蟻數科斥資逾億元打造全球科技創新引擎",
+      "date": "2025-07-29T02:00:00.000Z",
+      "image": "/images/blog/2025/07/20250729polyu2.webp",
+      "tags": [
+        "人工智能",
+        "Web3",
+        "香港創科",
+        "區塊鏈",
+        "金融科技"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "大灣區創科",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250728hsbc.md",
+      "title": "滙豐完成Cargox試行交易 助中小企數碼融資",
+      "description": "滙豐率先完成Cargox試行項目，推動物流數據應用於中小企融資",
+      "date": "2025-07-28T02:00:00.000Z",
+      "image": "/images/blog/2025/07/20250728hsbc.webp",
+      "tags": [
+        "金融創新科技",
+        "中小企數碼化",
+        "數據應用",
+        "貿易融資"
+      ],
+      "categories": [
+        "金融創新科技/FinTech",
+        "香港創科",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250728webankdvp.md",
+      "title": "微眾科技展示深港數據驗證平台　首創跨境金融驗證新方案",
+      "description": "深港數據驗證平台於香港金管局主辦的數據峰會亮相，支援逾10間機構提供安全跨境數據服務。",
+      "date": "2025-07-28T01:00:00.000Z",
+      "image": "/images/blog/2025/07/20250728webankdvp.webp",
+      "tags": [
+        "金融科技",
+        "數碼基建",
+        "大灣區政策"
+      ],
+      "categories": [
+        "香港創科",
+        "大灣區創科",
+        "數碼科技"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250725huawei.md",
+      "title": "商湯聯手華東院　AI賦能建築業革新",
+      "description": "商湯與華東院簽署戰略協議，以多模態大模型重塑建築設計流程，推動行業數碼化轉型",
+      "date": "2025-07-25T03:00:00.000Z",
+      "image": "/images/blog/2025/07/20250725sensetime2.webp",
+      "tags": [
+        "人工智能",
+        "建築科技",
+        "技術轉化",
+        "智慧城市"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "智慧城市",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250725hkstp.md",
+      "title": "香港科學園8月化身烹飪實驗室　STEAM×寵物主題親子樂",
+      "description": "香港科學園8月推STEAM教育與寵物友善活動，結合美食、科技與領養，打造家庭夏日新體驗。",
+      "date": "2025-07-25T01:00:00.000Z",
+      "image": "/images/blog/2025/07/20250725hkstp.webp",
+      "tags": [
+        "香港創科",
+        "STEAM教育",
+        "親子活動",
+        "寵物領養",
+        "科學園"
+      ],
+      "categories": [
+        "香港創科",
+        "數碼港／Cyberport",
+        "教育科技"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250921weather.md",
+      "title": "樺加沙直撲香港？五大天氣AI預報對比",
+      "description": "香港天文台比較五種人工智能天氣預報模式，預測樺加沙將直撲香港。",
+      "date": "2025-07-25T00:00:00.000Z",
+      "image": "/images/blog/2025/07/20250701weather01.webp",
+      "tags": [
+        "人工智能",
+        "天氣預報",
+        "AI預測天氣",
+        "樺加沙襲港",
+        "天文台預測颱風",
+        "颱風測測",
+        "超強颱風樺加沙"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "智慧城市"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250724hkpc.md",
+      "title": "42名頂尖學子入選 生產力局夏季實習計劃創新高",
+      "description": "2025年Summer InnoTalent（創新人才）實習計劃收2,577份申請，錄取率僅1/60。多位名校生參與新型工業化、AI等前沿領域實習。",
+      "date": "2025-07-24T01:00:00.000Z",
+      "image": "/images/blog/2025/07/20250724hkpc.webp",
+      "tags": [
+        "香港創科",
+        "人才培育",
+        "大灣區",
+        "人工智能",
+        "綠色科技"
+      ],
+      "categories": [
+        "香港創科",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250723sophosendpoint.md",
+      "title": "Sophos 連續16年蟬聯 Gartner 端點防護領導者",
+      "description": "Sophos 端點防護平台連續16年獲 Gartner 魔力象限領導者評級，並同時榮膺兩項「客戶之選」殊榮。",
+      "date": "2025-07-23T03:00:00.000Z",
+      "image": "/images/blog/2025/07/20250723sophosendpoint.webp",
+      "tags": [
+        "網絡安全",
+        "端點防護",
+        "Gartner",
+        "Sophos",
+        "技術整合"
+      ],
+      "categories": [
+        "網絡安全/Cyber Security"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250723honor.md",
+      "title": "HONOR Magic V5全球最薄摺疊手機登陸香港",
+      "description": "HONOR Magic V5以8.8mm厚度刷新摺疊手機紀錄，8月6日香港開售，預售禮遇總值逾萬元。",
+      "date": "2025-07-23T01:00:00.000Z",
+      "image": "/images/blog/2025/07/20250723honormagicv5.webp",
+      "tags": [
+        "摺疊手機",
+        "HONOR",
+        "香港發佈",
+        "預售優惠"
+      ],
+      "categories": [
+        "香港創科",
+        "智能手機"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250721amd.md",
+      "title": "AMD雙旗艦登場 為香港創科注入AI動能",
+      "description": "AMD推出Ryzen Threadripper PRO 9000 WX與Radeon AI PRO R9700，7月23日上市，助香港AI產業再升級。",
+      "date": "2025-07-20T02:00:00.000Z",
+      "image": "/images/blog/2025/07/20250721amd.webp",
+      "tags": [
+        "人工智能",
+        "工作站",
+        "AMD",
+        "香港創科",
+        "AI硬件"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "香港創科",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250721hkstp.md",
+      "title": "千名創科新血聚首 香港科技園開創國際合作新節奏 | Making HK IT!",
+      "description": "香港科技園首辦「Rhythm of Innovation」盛會，匯聚全球頂尖人才與初創企業，打造創科生態圈。",
+      "date": "2025-07-20T01:00:00.000Z",
+      "image": "/images/blog/2025/07/20250721hkstp.webp",
+      "tags": [
+        "香港創科",
+        "人才培育",
+        "初創生態",
+        "科技園",
+        "國際合作"
+      ],
+      "categories": [
+        "香港創科",
+        "數碼科技",
+        "大灣區創科",
+        "科學園／香港科技園公司／HKSTP"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/nami20250718.md",
+      "title": "港房局聯手納米院　打造建築科技新里程",
+      "description": "房屋局與NAMI簽署合作備忘錄，以公營房屋為試驗場，推動「智易扣」等創新建築技術落地，並建立知識產權循環模式。",
+      "date": "2025-07-18T00:00:00.000Z",
+      "image": "/images/blog/2025/07/20250718nami2.webp",
+      "tags": [
+        "香港創科",
+        "建築科技",
+        "知識產權",
+        "智慧城市",
+        "大灣區"
+      ],
+      "categories": [
+        "香港創科",
+        "智慧城市",
+        "大灣區創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250717cyberport.md",
+      "title": "數碼港「人工智慧 x 資料論壇」成功舉辦 推動AI與數據創新",
+      "description": "數碼港舉辦AI與資料論壇，深化內港合作，催生創科新動能。",
+      "date": "2025-07-17T20:00:00.000Z",
+      "image": "/images/blog/2025/07/20250717cyberport.webp",
+      "tags": [
+        "人工智慧",
+        "數據創新",
+        "數碼港",
+        "科技合作",
+        "香港創科"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼港／Cyberport",
+        "香港創科",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250717aws.md",
+      "title": "AWS 紐約峰會重要公佈 AI Agent 創新技術",
+      "description": "AWS 於紐約峰會推出 Amazon Bedrock AgentCore，推動 AI Agent 發展。",
+      "date": "2025-07-17T16:00:00.000Z",
+      "image": "/images/blog/2025/07/20250717aws.webp",
+      "tags": [
+        "人工智能",
+        "雲運算",
+        "技術創新",
+        "AI Agent"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "雲運算",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250717cainiao.md",
+      "title": "菜鳥香港供應鏈中心啟用 打造全球物流新樞紐",
+      "description": "菜鳥香港供應鏈中心正式開放，助力全球品牌實現「備貨香港、發貨全球」目標。",
+      "date": "2025-07-17T01:00:00.000Z",
+      "image": "/images/blog/2025/07/20250717cainiao.webp",
+      "tags": [
+        "物流科技",
+        "跨境電商",
+        "香港創科",
+        "全球供應鏈"
+      ],
+      "categories": [
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250715sandisk.md",
+      "title": "港企邀國際權威組高頻寬記憶體技術顧問委員會",
+      "description": "香港科技公司邀請兩位電腦架構泰斗擔任顧問，推動高頻寬記憶體標準化",
+      "date": "2025-07-15T05:00:00.000Z",
+      "image": "/images/blog/2025/07/20250715sandisk.webp",
+      "tags": [
+        "高頻寬記憶體",
+        "技術標準",
+        "人工智能",
+        "香港創科"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "香港創科",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250715sophos.md",
+      "title": "Sophos低成本AI防詐方案　助港企應對五大安全風險",
+      "description": "Sophos結合小型AI模型與大型語言模型技術，有效應對2025年香港AI詐騙威脅",
+      "date": "2025-07-15T04:00:00.000Z",
+      "image": "/images/blog/2025/07/20250731sophosxops.webp",
+      "tags": [
+        "人工智能",
+        "網絡安全",
+        "詐騙防範",
+        "企業方案",
+        "香港創科"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "網絡安全/Cyber Security",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/20250715polyu.md",
+      "title": "理大三學者獲研資局嘉許　推動醫療AI與材料創新",
+      "description": "香港理工大學三位學者憑生物醫學、人工智能及先進材料研究，獲研資局2025/26年度高級研究學者及研究學者殊榮。",
+      "date": "2025-07-15T03:00:00.000Z",
+      "image": "/images/blog/2025/07/20250715polyu.webp",
+      "tags": [
+        "人工智能",
+        "科研成果",
+        "技術轉化",
+        "醫療科技",
+        "香港創科"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "Biological Technology",
+        "大灣區創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/Meey.md",
+      "title": "越南Meey集團Proptech論壇 推動數位資產全球化",
+      "description": "越南Meey集團舉辦Proptech論壇，聯手國際資本，推動數位資產發展。",
+      "date": "2025-07-15T00:00:00.000Z",
+      "image": "/images/blog/2025/07/meey.jpg",
+      "tags": [
+        "房地產科技",
+        "數位資產",
+        "資本市場",
+        "越南科技",
+        "國際合作"
+      ],
+      "categories": [
+        "數碼轉型",
+        "金融創新科技/FinTech",
+        "數碼科技"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/baid.md",
+      "title": "百度與Uber聯手推進無人駕駛全球化布局",
+      "description": "百度無人駕駛平台蘿蔔快跑與Uber合作，將第六代車輛拓展至亞洲及中東市場。",
+      "date": "2025-07-15T00:00:00.000Z",
+      "image": "/images/blog/2025/07/baidu1.webp",
+      "tags": [
+        "無人駕駛",
+        "技術合作",
+        "智慧城市",
+        "蘿蔔快跑",
+        "百度"
+      ],
+      "categories": [
+        "數碼科技",
+        "香港創科",
+        "智慧城市"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/hkfi.md",
+      "title": "香港工總發佈新型工業化策略報告 推動高端製造業發展",
+      "description": "香港工總提出七大倡議，推動新型工業化，聚焦高端製造及品牌香港建設。",
+      "date": "2025-07-15T00:00:00.000Z",
+      "image": "/images/blog/2025/07/hkfi.webp",
+      "tags": [
+        "新型工業化",
+        "高端製造業",
+        "品牌香港",
+        "香港經濟",
+        "研發創新"
+      ],
+      "categories": [
+        "香港創科",
+        "數碼轉型",
+        "大灣區創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/hktdcbiotech.md",
+      "title": "法國銀髮經濟崛起：人口老化孕育新機遇",
+      "description": "法國銀髮經濟快速發展，人口老化帶來創新與商機。",
+      "date": "2025-07-15T00:00:00.000Z",
+      "image": "/images/blog/2025/07/default.jpg",
+      "tags": [
+        "銀髮經濟",
+        "人口老化",
+        "法國創新",
+        "長者護理",
+        "健康科技"
+      ],
+      "categories": [
+        "數碼科技",
+        "香港創科",
+        "智慧城市"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/htstp715.md",
+      "title": "科技園聯手華潤培育創科人才 打造香港創新高地",
+      "description": "香港科技園與華潤集團合辦「衝出夢想」計劃，吸引全球人才來港實習，推動創科發展。",
+      "date": "2025-07-15T00:00:00.000Z",
+      "image": "/images/blog/2025/07/hkstp715.webp",
+      "tags": [
+        "創科人才",
+        "香港科技園",
+        "華潤集團",
+        "實習計劃",
+        "國際化"
+      ],
+      "categories": [
+        "香港創科",
+        "科學園／香港科技園公司／HKSTP",
+        "大灣區創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/kngroup.md",
+      "title": "人工智能新進展：提升醫療診斷效率",
+      "description": "人工智能革新醫療診斷，助力香港智慧醫療發展。",
+      "date": "2025-07-15T00:00:00.000Z",
+      "image": "/images/blog/2025/07/kngroup.webp",
+      "tags": [
+        "人工智能",
+        "醫療科技",
+        "智慧城市"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/polyuprofzhaojiong.md",
+      "title": "理大突破二維材料技術：強韌兼備推動電子光子發展",
+      "description": "理大研發創新二維材料技術，強度與韌性兼備，助力電子光子領域發展。",
+      "date": "2025-07-15T00:00:00.000Z",
+      "image": "/images/blog/2025/07/polyu1.webp",
+      "tags": [
+        "二維材料",
+        "電子技術",
+        "光子器件",
+        "科研創新",
+        "香港創科"
+      ],
+      "categories": [
+        "數碼科技",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/buttonclip.md",
+      "title": "耳夾耳機搶閘登場　AI 助理 HALI 隨時落單",
+      "description": "洛杉磯品牌 BUTTONS 在港推出首款 AI 耳夾式耳機，骨傳導降噪兼 12mm 鈦複合單元，售價 HK$1,499。",
+      "date": "2025-07-14T00:00:00.000Z",
+      "image": "/images/blog/2025/07/buttons.jpg",
+      "tags": [
+        "人工智能",
+        "耳機",
+        "音響科技",
+        "穿戴裝置",
+        "香港上市"
+      ],
+      "categories": [
+        "香港創科",
+        "AI/人工智能",
+        "數碼科技"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/lenovo.md",
+      "title": "3香港獨家首賣Lenovo 5G平板　月費$158包20GB兼送$899智能戒指",
+      "description": "3香港及3SUPREME獨家推出Lenovo Idea Tab 5G，月費$158連20GB 5G數據，預訂即送Benio Gen Pro智能戒指，主打AI Note助手及Dolby Atmos影音體驗。",
+      "date": "2025-07-11T00:00:00.000Z",
+      "image": "/images/blog/2025/07/lenovo.jpg",
+      "tags": [
+        "5G平板",
+        "AI助手",
+        "智能戒指",
+        "預訂優惠",
+        "3香港"
+      ],
+      "categories": [
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/nothing.md",
+      "title": "Nothing Phone (3) 登場　Glyph 背屏與 AI 深度融合　強調個性化設計",
+      "description": "倫敦品牌 Nothing 推出旗艦機 Phone (3)，以 6.7 吋 Glyph 背屏與 AI 深度整合，瞄準創作者與追求個性化的用戶，香港 7 月 23 日公開發售。",
+      "date": "2025-07-11T00:00:00.000Z",
+      "image": "/images/blog/2025/07/nothing.jpg",
+      "tags": [
+        "Nothing Phone 3",
+        "旗艦手機",
+        "Glyph 背屏",
+        "AI 功能",
+        "香港發售"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/xtransfer.md",
+      "title": "XTransfer以TradePilot模型改變B2B跨境支付 香港中小企體驗AI風控革新",
+      "description": "XTransfer推出全球首個外貿金融大語言模型TradePilot，助70多萬家中小企實現跨境收款風控自動化，AI客服解答率逾八成，港企數碼轉型掀新浪潮。",
+      "date": "2025-07-11T00:00:00.000Z",
+      "image": "/images/blog/2025/07/xtransfer.jpg",
+      "tags": [
+        "人工智能",
+        "跨境支付",
+        "風控",
+        "外貿金融",
+        "中小企"
+      ],
+      "categories": [
+        "金融創新科技/FinTech",
+        "香港創科",
+        "AI/人工智能"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/HKBNElderlySolution.md",
+      "title": "香港首創無線平安鐘連跌倒偵測系統",
+      "description": "香港寬頻與家居平安協會合作推出創新長者居家安全方案。",
+      "date": "2025-07-08T00:00:00.000Z",
+      "image": "/images/blog/2025/07/20250708hkbn1.webp",
+      "tags": [
+        "樂齡科技",
+        "居家安老",
+        "毫米波雷達",
+        "社會企業合作"
+      ],
+      "categories": [
+        "樂齡科技",
+        "智慧家居",
+        "社會創新"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/07/red-hat-vllm-ai-post-on-20250702.md",
+      "title": "“紅帽發表新技術AI推理服務器  vLLM推動AI成本下降\"",
+      "description": "",
+      "date": "2025-07-02T09:56:07.000Z",
+      "image": "/images/blog/2025/07/Continuous-batching-for-requests-1024x706.webp",
+      "tags": [
+        "AI",
+        "RedHat"
+      ],
+      "categories": [
+        "AI",
+        "RedHat"
+      ],
+      "author": "Sharon"
+    }
+  ]
+}

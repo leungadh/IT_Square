@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Debug Popular Posts</title>
+</head>
+<body>
+    <h1>Debug Popular Posts URLs</h1>
+    <div id="results"></div>
+    
+    <script>
+        async function testPopularPosts() {
+            try {
+                const response = await fetch('/api/popular-posts?v=' + Date.now());
+                const posts = await response.json();
+                
+                const resultsDiv = document.getElementById('results');
+                resultsDiv.innerHTML = '<h2>API Response:</h2>';
+                
+                posts.forEach((post, index) => {
+                    const cleanSlug = post.slug.trim().replace(/\s+/g, '-');
+                    const cleanYear = post.year.trim();
+                    const cleanMonth = post.month.trim();
+                    const url = `/article/${cleanYear}/${cleanMonth}/${cleanSlug}`;
+                    
+                    resultsDiv.innerHTML += `
+                        <div style="border: 1px solid #ccc; margin: 10px; padding: 10px;">
+                            <h3>Post ${index + 1}: ${post.frontmatter.title}</h3>
+                            <p><strong>Raw slug:</strong> "${post.slug}" (length: ${post.slug.length})</p>
+                            <p><strong>Clean slug:</strong> "${cleanSlug}"</p>
+                            <p><strong>Year:</strong> "${post.year}" -> "${cleanYear}"</p>
+                            <p><strong>Month:</strong> "${post.month}" -> "${cleanMonth}"</p>
+                            <p><strong>Generated URL:</strong> <a href="${url}" target="_blank">${url}</a></p>
+                            <button onclick="testUrl('${url}')">Test URL</button>
+                            <div id="test-${index}"></div>
+                        </div>
+                    `;
+                });
+            } catch (error) {
+                document.getElementById('results').innerHTML = 'Error: ' + error.message;
+            }
+        }
+        
+        async function testUrl(url) {
+            try {
+                const response = await fetch(url);
+                const resultDiv = document.getElementById('test-' + url.split('/').pop());
+                if (response.ok) {
+                    resultDiv.innerHTML = '<span style="color: green;">✅ URL works!</span>';
+                } else {
+                    resultDiv.innerHTML = '<span style="color: red;">❌ URL failed: ' + response.status + '</span>';
+                }
+            } catch (error) {
+                console.error('Test failed:', error);
+            }
+        }
+        
+        // Run test on page load
+        testPopularPosts();
+    </script>
+</body>
+</html>

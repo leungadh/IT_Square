@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "key": "content/posts/2025/09/0901vtc.md",
+      "title": "VTC太陽能車隊揚威國際 勇奪世界冠軍",
+      "description": "香港IVE工程學科團隊自主研發的SOPHIE 8x在2025年世界太陽能車挑戰賽中奪冠，展現創新實力。",
+      "date": "2025-09-01T00:00:00.000Z",
+      "image": "/images/blog/2025/09/20250901vtc1.webp",
+      "tags": [
+        "太陽能科技",
+        "創新設計",
+        "可持續發展"
+      ],
+      "categories": [
+        "新能源",
+        "香港創科",
+        "智慧交通"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/datachallenge.md",
+      "title": "港隊在滬港數據競賽奪兩大獎項 展現智慧科技實力",
+      "description": "香港隊伍在 「數據要素 x 滬港合作開放數據競賽 2025」 中勇奪殊榮，展現數據創新應用潛力。",
+      "date": "2025-09-01T00:00:00.000Z",
+      "image": "/images/blog/2025/09/20250901datachallenge1.webp",
+      "tags": [
+        "數據創新",
+        "智慧科技",
+        "滬港合作"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+Popularity
+
+Assuming fresh views have the same weight as old views.
+For non-interactive websites (no like, share, comment), then factors regarding like, share and comment are not counted.
+
+Popularity Score=w1×Views+w2×Unique Visitors+w3×Normalized Dwell Time
+where:
+	•	Views: Total number of page loads for the article.
+	•	Unique Visitors: Number of distinct users.
+	•	Normalized Dwell Time: Average dwell time per 100 words or equi. Normalized Dwell Time (per 100 words)=Avg. Dwell Time (seconds)/Article length (words) ×100
+
+As a start, we adopt the following weight values and adjust later.
+
+Score=1×Views+5×Unique Visitors+10×Normalized Dwell Time
+
+************************************************
+Trending
+
+How to weigh fresh views versus older views in the score?
+Fresh views should be weighted more heavily than older views in the popularity score, reflecting how new engagement indicates current relevance and reach. The standard method is to apply a decay function—most commonly exponential decay—to reduce the impact of older views, ensuring the score favors recent activity while still accounting for historic performance.
+Recommended Decay Formula
+A widely-used formula is:
+Weighted View=
+N
+∑
+i=1  Vi×e−λ(Tnow−Ti)
+
+Where:
+•  Vi is number of views at time Ti
+•  Tnow is the current time
+•  λ    Is the decay rate (a constant that sets how quickly older views lose influence; typically between 0.1 and 0.5 for daily/weekly scaling)
+• e−λ(Tnow - Ti) is the decay factor
+Setting the Weight (Decay Rate)
+• For news, choose a higher decay rate ( λ approx 0.3-0.5 ) to make the score sensitive to current events and trends, so views from a few days ago have significantly less influence.
+• For evergreen articles, use a lower rate ( λ approx 0.1-0.3 ), balancing lasting value and recent relevance.
+Practical Example
+Suppose views per day for the past week: [Mon=50, Tue=40, Wed=30, Thu=20, Fri=10] and today is Saturday. With λ = 0.5 and “age” in days:
+• Sat:  1  day ago, decay = $ e^{-0.5 * 1} \approx 0.61 
+• Fri:  2  days ago, decay = $ e^{-0.5 * 2} \approx 0.37 
+• ... and so on
+Each day’s views are multiplied by its decay factor, summed for total weighted views.
+Usage in Popularity Score
+Replace raw “Views” in your main formula with “Weighted Views”:
+This gives the score strong recency awareness, helping track both recent reach and overall engagement.
+Summary
+• Use exponential decay to down-weight older views
+• For news: λ = 0.3-0.5  is recommended for starting
+• Adjust over time to fit site behavior and content goals
+
+

@@ -1,0 +1,145 @@
+{
+  "timestamp": "2025-09-09T00:05:44.513Z",
+  "url": "https://it-square.hk",
+  "metrics": {
+    "/": {
+      "loadTime": 439,
+      "statusCode": 200,
+      "contentLength": 47905,
+      "contentType": "text/html; charset=utf-8",
+      "cacheControl": "s-maxage=300, stale-while-revalidate=31535700",
+      "etag": "\"uhn0s6nj6i10xj\""
+    },
+    "/about": {
+      "loadTime": 344,
+      "statusCode": 307,
+      "contentLength": 0,
+      "contentType": "text/html; charset=utf-8",
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate"
+    },
+    "/_next/static/css/app.css": {
+      "loadTime": 324,
+      "statusCode": 404,
+      "contentLength": 0,
+      "contentType": "text/plain; charset=utf-8",
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate"
+    },
+    "/_next/static/chunks/main.js": {
+      "loadTime": 238,
+      "statusCode": 404,
+      "contentLength": 0,
+      "contentType": "text/plain; charset=utf-8",
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate"
+    },
+    "/images/logo.png": {
+      "loadTime": 323,
+      "statusCode": 404,
+      "contentLength": 22357,
+      "contentType": "text/html; charset=utf-8",
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "etag": "\"8b07p71sfqh91\""
+    },
+    "/favicon.ico": {
+      "loadTime": 283,
+      "statusCode": 200,
+      "contentLength": 4414,
+      "contentType": "image/x-icon",
+      "cacheControl": "max-age=5, stale-while-revalidate",
+      "etag": "\"b0d3ffc9114392b47ac996bad781f109\"",
+      "lastModified": "Mon, 08 Sep 2025 16:48:10 GMT"
+    },
+    "/api/popular-posts": {
+      "loadTime": 2643,
+      "statusCode": 200,
+      "contentLength": 0,
+      "contentType": "application/json"
+    },
+    "/api/health": {
+      "loadTime": 297,
+      "statusCode": 404,
+      "contentLength": 22357,
+      "contentType": "text/html; charset=utf-8",
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "etag": "\"8b07p71sfqh91\""
+    }
+  },
+  "caching": {
+    "/": {
+      "hasCacheControl": true,
+      "cacheControl": "s-maxage=300, stale-while-revalidate=31535700",
+      "hasEtag": true,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    },
+    "/about": {
+      "hasCacheControl": true,
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "hasEtag": false,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    },
+    "/_next/static/css/app.css": {
+      "hasCacheControl": true,
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "hasEtag": false,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    },
+    "/_next/static/chunks/main.js": {
+      "hasCacheControl": true,
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "hasEtag": false,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    },
+    "/images/logo.png": {
+      "hasCacheControl": true,
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "hasEtag": true,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    },
+    "/favicon.ico": {
+      "hasCacheControl": true,
+      "cacheControl": "max-age=5, stale-while-revalidate",
+      "hasEtag": true,
+      "hasLastModified": true,
+      "isPublic": false,
+      "maxAge": 5,
+      "isImmutable": false
+    },
+    "/api/popular-posts": {
+      "hasCacheControl": false,
+      "cacheControl": "",
+      "hasEtag": false,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    },
+    "/api/health": {
+      "hasCacheControl": true,
+      "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "hasEtag": true,
+      "hasLastModified": false,
+      "isPublic": false,
+      "maxAge": 0,
+      "isImmutable": false
+    }
+  },
+  "recommendations": [
+    "/_next/static/css/app.css: Static assets should have immutable cache",
+    "/_next/static/chunks/main.js: Static assets should have immutable cache",
+    "/api/popular-posts: Missing Cache-Control header"
+  ]
+}

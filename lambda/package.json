@@ -1,0 +1,23 @@
+{
+  "name": "itsquare-lambda-triggers",
+  "version": "1.0.0",
+  "description": "Combined Lambda triggers for IT-Square content updates and indexing",
+  "main": "s3-deployment-trigger.js",
+  "dependencies": {
+    "@aws-sdk/client-ecs": "^3.600.0",
+    "@aws-sdk/client-s3": "^3.600.0",
+    "gray-matter": "^4.0.3",
+    "module-alias": "^2.2.3",
+    "unified": "^11.0.4",
+    "remark-parse": "^11.0.0",
+    "remark-stringify": "^11.0.0",
+    "strip-markdown": "^6.0.0",
+    "lunr": "^2.3.9",
+    "lunr-languages": "^1.14.0",
+    "@node-rs/jieba": "^2.0.1",
+    "nodejieba": "^2.5.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

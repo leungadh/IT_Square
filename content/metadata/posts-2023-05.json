@@ -1,0 +1,256 @@
+{
+  "items": [
+    {
+      "key": "content/posts/2023/05/e5-a4-a7-e6-a8-a1-e5-9e-8b-e9-87-8d-e6-96-b0-e5-ae-9a-e7-be-a9-e6-87-89-e7-94-a8-e8-ae-8a-e8-ba-ab-e4-ba-a4-e8-ab-87-e5-bc-8f-e4-ba-ba-e6-a9-9f-e4-bb-8b-e9-9d-a2.md",
+      "title": "大模型重新定義應用   變身交談式人機介面",
+      "description": "",
+      "date": "2023-05-29T02:18:00.000Z",
+      "image": "/images/blog/2023/05/0529Microsoft02.jpg",
+      "tags": [
+        "Bing",
+        "Chatbot",
+        "ChatGPT",
+        "Copilot",
+        "GitHub",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "categories": [
+        "Bing",
+        "Chatbot",
+        "ChatGPT",
+        "Copilot",
+        "GitHub",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/05/e9-87-91-e8-9e-8d-e5-89-b5-e6-96-b0-web3-e9-87-8d-e5-a1-91-e9-87-91-e8-9e-8d-e6-9c-8d-e5-8b-99-e6-a1-86-e6-9e-b6-e5-8d-80-e5-a1-8a-e9-8f-88-e9-80-8f-e6-98-8e-e5-ba-a6-e9-ab-98-e6-9c-89-e5-8a-a9.md",
+      "title": "金融創新|   Web3重塑金融服務框架 區塊鏈透明度高有助管理資產",
+      "description": "",
+      "date": "2023-05-24T03:11:00.000Z",
+      "image": "/images/blog/2023/05/OKX.jpg",
+      "tags": [
+        "Blockchain",
+        "Fintech",
+        "Web3.0",
+        "數碼轉型",
+        "金融創新"
+      ],
+      "categories": [
+        "Blockchain",
+        "Fintech",
+        "Web3.0",
+        "數碼轉型",
+        "金融創新"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/05/e9-86-ab-e7-99-82-e5-89-b5-e6-96-b0-e4-b8-ad-e6-85-a7-e9-86-ab-e5-ad-b8-e6-88-90-e5-83-8f-e5-ae-8c-e6-88-90pre-a-e8-bc-aa-e8-9e-8d-e8-b3-87-e5-8a-a0-e9-80-9f-e6-8e-a8-e5-8b-95-e4-b8-ad.md",
+      "title": "醫療創新|   中慧醫學成像完成Pre-A輪融資   加速推動中國原創醫學影像技術",
+      "description": "",
+      "date": "2023-05-22T18:12:39.000Z",
+      "image": "/images/blog/2023/05/Scolioscan中慧醫學成像.jpg",
+      "tags": [
+        "Uncategorized"
+      ],
+      "categories": [
+        "Uncategorized"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/05/e4-ba-ba-e5-b7-a5-e6-99-ba-e8-83-bd-e6-95-b4-e5-90-88chatgpt-e9-a9-85-e5-8b-95-e6-87-89-e7-94-a8-e6-96-b9-e6-a1-88-e6-8e-80-e7-86-b1-e6-bd-ae.md",
+      "title": "人工智能|   整合ChatGPT 驅動應用方案掀熱潮",
+      "description": "",
+      "date": "2023-05-22T02:23:00.000Z",
+      "image": "/images/blog/2023/05/0522imbee_1-1024x623.jpg",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "Chatbot",
+        "ChatGPT",
+        "人工智能",
+        "創科廣場",
+        "數碼轉型"
+      ],
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "Chatbot",
+        "ChatGPT",
+        "人工智能",
+        "創科廣場",
+        "數碼轉型"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/05/hitachi-vantarallm-e4-ba-ba-e5-b7-a5-e6-99-ba-e8-83-bd-e7-94-9f-e6-88-90-e5-bc-8fai-e7-9a-84-e5-84-b2-e5-ad-98-e9-9c-80-e6-b1-82.md",
+      "title": "Hitachi Vantara|LLM|人工智能|   生成式AI的儲存需求",
+      "description": "",
+      "date": "2023-05-19T05:22:00.000Z",
+      "image": "/images/blog/2023/05/Hitachi_DataFabric.jpg",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "Chatbot",
+        "ChatGPT",
+        "Hitachi Vantara"
+      ],
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "Chatbot",
+        "ChatGPT",
+        "Hitachi Vantara"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/05/e4-ba-ba-e5-b7-a5-e6-99-ba-e8-83-bd-e7-94-9f-e6-88-90-e5-bc-8fai-e6-88-b0-e5-9c-8b-e6-99-82-e4-bb-a3-e7-9f-ad-e5-85-b5-e7-9b-b8-e6-8e-a5-e5-90-84-e5-87-ba-e5-a5-87-e8-ac-80.md",
+      "title": "人工智能|  生成式AI戰國時代   短兵相接各出奇謀",
+      "description": "",
+      "date": "2023-05-17T02:00:00.000Z",
+      "image": "/images/blog/2023/05/0515google01-1-1024x565.jpg",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "Chatbot",
+        "ChatGPT",
+        "Google",
+        "人工智能",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "Chatbot",
+        "ChatGPT",
+        "Google",
+        "人工智能",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/05/e6-99-ba-e6-85-a7-e5-9f-8e-e5-b8-82-e5-9c-b0-e7-94-a2-e5-95-86-e7-99-bc-e5-b1-95-e4-bd-8e-e7-a2-b3-e5-bb-ba-e7-af-89-e5-8a-a9-e6-9c-ac-e6-b8-af-e5-af-a6-e7-8f-be-e7-a2-b3-e4-b8-ad-e5-92-8c.md",
+      "title": "智慧城市|   地產商發展低碳建築   <strong>助本港實現碳中和</strong>",
+      "description": "",
+      "date": "2023-05-16T01:55:00.000Z",
+      "image": "/images/blog/2023/05/BuildAsia2023.jpg",
+      "tags": [
+        "ESG",
+        "PropTech",
+        "Smart City",
+        "創科廣場",
+        "房地產科技",
+        "數碼足跡",
+        "智慧城市"
+      ],
+      "categories": [
+        "ESG",
+        "PropTech",
+        "Smart City",
+        "創科廣場",
+        "房地產科技",
+        "數碼足跡",
+        "智慧城市"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/05/e6-95-b8-e7-a2-bc-e8-bd-89-e5-9e-8b-e6-96-b0-e9-9b-b6-e5-94-ae-e6-a8-a1-e5-bc-8f-e7-b5-90-e5-90-88-e7-b7-9a-e4-b8-8a-e7-b7-9a-e4-b8-8b-omo-e5-a4-a7-e8-a1-8c-e5-85-b6-e9-81-93.md",
+      "title": "數碼轉型|  新零售模式結合線上線下   OMO大行其道",
+      "description": "",
+      "date": "2023-05-15T02:25:00.000Z",
+      "image": "/images/blog/2023/05/OMO-1a-1024x768.jpg",
+      "tags": [
+        "Digital Transformation",
+        "創科廣場",
+        "數據分析",
+        "數碼營銷",
+        "數碼轉型"
+      ],
+      "categories": [
+        "Digital Transformation",
+        "創科廣場",
+        "數據分析",
+        "數碼營銷",
+        "數碼轉型"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/05/e9-96-8b-e6-ba-90-e7-94-9f-e6-85-8b-e5-8b-a2-e4-b8-8d-e5-8f-af-e6-93-8b-e5-89-b5-e6-96-b0-e7-a5-9e-e9-80-9f-e4-bb-a5-e5-bf-ab-e6-89-93-e6-85-a2.md",
+      "title": "開源生態勢不可擋   創新神速以快打慢",
+      "description": "",
+      "date": "2023-05-11T05:57:00.000Z",
+      "image": "/images/blog/2023/05/0508nomoat01-1024x441.png",
+      "tags": [
+        "Chatbot",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Chatbot",
+        "ChatGPT"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/05/e9-86-ab-e7-99-82-e5-89-b5-e6-96-b0-e7-a0-b4-e8-a7-a3mrna-e7-96-ab-e8-8b-97-e5-a4-a7-e6-b5-b7-e6-92-88-e9-87-9d-e5-b7-a7-e5-80-9f-e8-aa-9e-e8-a8-80-e8-99-95-e7-90-86-e6-8c-89-e5-9c-96-e7-b4-a2.md",
+      "title": "醫療創新|  破解mRNA疫苗大海撈針   巧借語言處理按圖索驥",
+      "description": "",
+      "date": "2023-05-08T03:12:00.000Z",
+      "image": "/images/blog/2023/05/baidu02-1024x738.jpg",
+      "tags": [
+        "Biological Technology",
+        "醫療創新",
+        "醫療科技"
+      ],
+      "categories": [
+        "Biological Technology",
+        "醫療創新",
+        "醫療科技"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/05/e6-9d-ad-e5-b7-9e-e5-b0-87-e8-88-87-e6-9c-ac-e5-9c-b0-e7-a7-91-e6-8a-80-e4-bc-81-e6-a5-ad-e7-b7-8a-e5-af-86-e5-90-88-e4-bd-9c.md",
+      "title": "杭州將與本地科技企業緊密合作",
+      "description": "",
+      "date": "2023-05-08T02:07:00.000Z",
+      "image": "/images/blog/2023/05/西博文化公司副總經理馮玉潔.jpg",
+      "tags": [
+        "Smart City",
+        "智慧城市"
+      ],
+      "categories": [
+        "Smart City",
+        "智慧城市"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2023/05/e4-bd-8e-e6-88-90-e6-9c-ac-e5-be-ae-e8-aa-bf-e5-a4-a7-e8-aa-9e-e8-a8-80-e6-a8-a1-e5-9e-8b.md",
+      "title": "低成本微調大語言模型   生成AI飛入尋常百姓家",
+      "description": "",
+      "date": "2023-05-02T03:01:00.000Z",
+      "image": "/images/blog/2023/05/0501Databrick-1b-1024x513.jpg",
+      "tags": [
+        "Chatbot",
+        "ChatGPT"
+      ],
+      "categories": [
+        "Chatbot",
+        "ChatGPT"
+      ],
+      "author": "Sharon"
+    }
+  ]
+}

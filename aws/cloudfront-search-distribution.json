@@ -1,0 +1,83 @@
+{
+  "CallerReference": "search-optimization-2025",
+  "Comment": "CloudFront distribution for search index files optimization",
+  "DefaultRootObject": "",
+  "Origins": {
+    "Quantity": 1,
+    "Items": [
+      {
+        "Id": "S3-itsquareupdatedcontent-search",
+        "DomainName": "itsquareupdatedcontent.s3.ap-east-1.amazonaws.com",
+        "OriginPath": "/content/search",
+        "CustomOriginConfig": {
+          "HTTPPort": 80,
+          "HTTPSPort": 443,
+          "OriginProtocolPolicy": "https-only",
+          "OriginSslProtocols": {
+            "Quantity": 1,
+            "Items": ["TLSv1.2"]
+          }
+        }
+      }
+    ]
+  },
+  "DefaultCacheBehavior": {
+    "TargetOriginId": "S3-itsquareupdatedcontent-search",
+    "ViewerProtocolPolicy": "redirect-to-https",
+    "MinTTL": 300,
+    "DefaultTTL": 3600,
+    "MaxTTL": 86400,
+    "ForwardedValues": {
+      "QueryString": false,
+      "Cookies": {
+        "Forward": "none"
+      },
+      "Headers": {
+        "Quantity": 3,
+        "Items": ["Accept-Encoding", "Origin", "Access-Control-Request-Method"]
+      }
+    },
+    "Compress": true,
+    "TrustedSigners": {
+      "Enabled": false,
+      "Quantity": 0
+    }
+  },
+  "CacheBehaviors": {
+    "Quantity": 2,
+    "Items": [
+      {
+        "PathPattern": "*.json",
+        "TargetOriginId": "S3-itsquareupdatedcontent-search",
+        "ViewerProtocolPolicy": "redirect-to-https",
+        "MinTTL": 300,
+        "DefaultTTL": 3600,
+        "MaxTTL": 86400,
+        "ForwardedValues": {
+          "QueryString": false,
+          "Cookies": {
+            "Forward": "none"
+          }
+        },
+        "Compress": true
+      },
+      {
+        "PathPattern": "/search-*",
+        "TargetOriginId": "S3-itsquareupdatedcontent-search",
+        "ViewerProtocolPolicy": "redirect-to-https",
+        "MinTTL": 600,
+        "DefaultTTL": 3600,
+        "MaxTTL": 86400,
+        "ForwardedValues": {
+          "QueryString": false,
+          "Cookies": {
+            "Forward": "none"
+          }
+        },
+        "Compress": true
+      }
+    ]
+  },
+  "Enabled": true,
+  "PriceClass": "PriceClass_100"
+}

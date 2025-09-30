@@ -1,0 +1,22 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "DynamoDBReadEventsAndTopics",
+      "Effect": "Allow",
+      "Action": [
+        "dynamodb:DescribeTable",
+        "dynamodb:GetItem",
+        "dynamodb:BatchGetItem",
+        "dynamodb:Query",
+        "dynamodb:Scan"
+      ],
+      "Resource": [
+        "arn:aws:dynamodb:ap-east-1:891377044387:table/MediaInvites",
+        "arn:aws:dynamodb:ap-east-1:891377044387:table/MediaInvites/index/*",
+        "arn:aws:dynamodb:ap-east-1:891377044387:table/it-square-topics",
+        "arn:aws:dynamodb:ap-east-1:891377044387:table/it-square-topics/index/*"
+      ]
+    }
+  ]
+}

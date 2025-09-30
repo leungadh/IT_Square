@@ -1,0 +1,14 @@
+{
+  "name": "itsquare-lambda-triggers",
+  "version": "1.0.0",
+  "description": "Lambda triggers for IT-Square content indexing",
+  "main": "s3-indexing-trigger-fixed.js",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.600.0",
+    "gray-matter": "^4.0.3",
+    "lunr": "^2.3.9"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

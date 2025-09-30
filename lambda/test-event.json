@@ -1,0 +1,15 @@
+{
+  "Records": [
+    {
+      "eventName": "ObjectCreated:Put",
+      "s3": {
+        "bucket": {
+          "name": "itsquareupdatedcontent"
+        },
+        "object": {
+          "key": "content/posts/test.md"
+        }
+      }
+    }
+  ]
+}

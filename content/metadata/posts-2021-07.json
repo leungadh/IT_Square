@@ -1,0 +1,802 @@
+{
+  "items": [
+    {
+      "key": "content/posts/2021/07/e9-96-8b-e6-ba-90-e6-bd-ae-e6-b5-81-e6-b5-a9-e6-b5-a9-e8-95-a9-e8-95-a9-microsoft-e6-8e-a8-e9-96-8b-e6-ba-90linux-e7-89-88-e6-9c-ac.md",
+      "title": "開源潮流浩浩蕩蕩   Microsoft推開源Linux版本",
+      "description": "",
+      "date": "2021-07-31T03:18:29.000Z",
+      "image": "/images/blog/2021/07/0730microsoft-1.png",
+      "tags": [
+        "Microsoft",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Microsoft",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/julia-e8-aa-9e-e8-a8-80-e5-ae-8c-e6-88-90a-e8-bc-aa-e8-9e-8d-e8-b3-87-e9-ad-9a-e8-88-87-e7-86-8a-e6-8e-8c-e7-b5-82-e5-8f-af-e5-85-bc-e5-be-97.md",
+      "title": "Julia語言完成A輪融資   魚與熊掌終可兼得",
+      "description": "",
+      "date": "2021-07-30T02:58:56.000Z",
+      "image": "/images/blog/2021/07/0730julia01.png",
+      "tags": [
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/ai-c2-b7-41.md",
+      "title": "AI · 41",
+      "description": "",
+      "date": "2021-07-30T01:00:29.000Z",
+      "image": "/images/blog/2021/07/J0730AI-731x1024.jpg",
+      "tags": [
+        "Uncategorized"
+      ],
+      "categories": [
+        "Uncategorized"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e7-b6-b2-e7-b5-a1-e6-94-bb-e6-93-8a-e8-ae-8a-e6-94-bf-e6-b2-bb-e6-b3-a5-e6-bc-bf-e9-bb-91-e5-ae-a2-e8-87-aa-e5-8b-95-e5-8c-96-e6-90-9c-e5-b0-8b-e7-9b-ae-e6-a8-99.md",
+      "title": "網絡攻擊變政治泥漿   黑客自動化搜尋目標",
+      "description": "",
+      "date": "2021-07-29T03:25:03.000Z",
+      "image": "/images/blog/2021/07/0727Hafnium01-scanning-over-time-1024x536.jpg",
+      "tags": [
+        "Barracuda",
+        "Cyber Security",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Barracuda",
+        "Cyber Security",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/barracuda-e6-87-89-e7-94-a8-e7-a8-8b-e5-bc-8f-e5-8f-8a-e9-9b-b2-e7-ab-af-e4-bf-9d-e8-ad-b7.md",
+      "title": "Barracuda應用程式及雲端保護",
+      "description": "",
+      "date": "2021-07-29T03:18:54.000Z",
+      "image": "/images/1f4de.png",
+      "tags": [
+        "Barracuda",
+        "Cyber Security"
+      ],
+      "categories": [
+        "Barracuda",
+        "Cyber Security"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e7-a9-ba-e6-b0-a3-e6-95-b8-e6-93-9a-e8-ae-8a-e8-ba-ab-e5-8d-80-e5-a1-8a-e9-8f-88-e5-a2-9e-e5-8f-af-e4-bf-a1-e6-80-a7-e5-bb-ba-e5-95-86-e6-a5-ad-e6-a8-a1-e5-bc-8f.md",
+      "title": "空氣數據變身區塊鏈   增可信性建商業模式",
+      "description": "",
+      "date": "2021-07-28T01:36:30.000Z",
+      "image": "/images/blog/2021/07/0728-Libelium01-1024x768.jpg",
+      "tags": [
+        "AloT",
+        "IoT",
+        "Smart City",
+        "創科廣場",
+        "眾創時代"
+      ],
+      "categories": [
+        "AloT",
+        "IoT",
+        "Smart City",
+        "創科廣場",
+        "眾創時代"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e9-9b-b2-e6-8a-80-e8-a1-93-e9-99-8d-e4-ba-ba-e5-93-a1-e4-b8-ad-e6-9a-91-e9-a2-a8-e9-9a-aa-e9-98-bf-e9-87-8c-e9-9b-b2-e5-8a-a9-e6-9d-b1-e4-ba-ac-e5-a5-a7-e9-81-8b-e8-bd-89-e5-9e-8b.md",
+      "title": "雲技術降人員中暑風險   阿里雲助東京奧運轉型",
+      "description": "",
+      "date": "2021-07-28T01:33:49.000Z",
+      "image": "/images/blog/2021/07/0728ALIBABA01-1024x576.jpg",
+      "tags": [
+        "Alibaba",
+        "Artificial Intelligence",
+        "Cloud computing",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Alibaba",
+        "Artificial Intelligence",
+        "Cloud computing",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/geek-e7-a0-94-e7-99-bc-e4-b8-ad-e5-bf-83-e8-90-bd-e6-88-b6-e9-a6-99-e6-b8-af-e7-a7-91-e5-ad-b8-e5-9c-92-e6-a9-9f-e6-a2-b0-e4-ba-ba-e7-89-a9-e6-b5-81-e6-96-b9-e6-a1-88-e5-af-a6-e7-8f-be-e6-99-ba.md",
+      "title": "Geek+ 研發中心落戶香港科學園  機械人物流方案實現智能倉庫",
+      "description": "",
+      "date": "2021-07-27T01:49:43.000Z",
+      "image": "/images/blog/2021/07/0727Geek-1-1024x683.jpg",
+      "tags": [
+        "Artificial Intelligence",
+        "HKSTP",
+        "Robotics",
+        "創科圈",
+        "創科廣場",
+        "眾創時代",
+        "科學園",
+        "香港科技園"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "HKSTP",
+        "Robotics",
+        "創科圈",
+        "創科廣場",
+        "眾創時代",
+        "科學園",
+        "香港科技園"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/cisco-e9-a6-99-e6-b8-af-e8-be-a6-e5-85-ac-e5-ae-a4-e5-85-a8-e9-9d-a2-e8-ae-8a-e5-a5-8f-e6-95-b8-e7-a2-bc-e8-bd-89-e5-9e-8b-e5-b7-a5-e4-bd-9c-e7-92-b0-e5-a2-83-e4-bb-a5-e4-ba-ba-e7-82-ba.md",
+      "title": "Cisco香港辦公室全面變奏  數碼轉型工作環境以人為本",
+      "description": "",
+      "date": "2021-07-27T01:36:56.000Z",
+      "image": "/images/blog/2021/07/0727Cisco_3-1024x488.jpg",
+      "tags": [
+        "CISCO",
+        "創科廣場",
+        "數碼轉型"
+      ],
+      "categories": [
+        "CISCO",
+        "創科廣場",
+        "數碼轉型"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e8-a3-bd-e9-80-a0-e6-a5-ad-e4-b8-ad-e5-b0-8f-e4-bc-81-e9-80-8f-e9-81-8e-e7-a7-91-e6-8a-80-e5-9c-92-e8-88-87-e6-bb-99-e8-b1-90-e5-90-88-e8-be-a6sprinter-2-e8-a8-88-e5-8a-83-e9-85-8d-e5-b0-8d.md",
+      "title": "製造業中小企透過科技園與滙豐合辦SPRINTER 2計劃   配對創科公司 加快創新轉型",
+      "description": "",
+      "date": "2021-07-26T02:01:07.000Z",
+      "image": "/images/blog/2021/07/56569050.jpg",
+      "tags": [
+        "HKBC",
+        "HKSTP",
+        "創科圈",
+        "科學園",
+        "香港科技園"
+      ],
+      "categories": [
+        "HKBC",
+        "HKSTP",
+        "創科圈",
+        "科學園",
+        "香港科技園"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e8-99-9b-e6-93-ac-e5-b1-95-e8-a6-bd-e5-b9-b3-e5-8f-b0-e7-8d-b2-e8-9e-8d-e8-b3-87-vr-e6-8a-80-e8-a1-93-e8-b1-90-e5-af-8c-e6-b4-bb-e5-8b-95-e9-ab-94-e9-a9-97.md",
+      "title": "虛擬展覽平台獲融資    VR技術豐富活動體驗",
+      "description": "",
+      "date": "2021-07-26T00:31:33.000Z",
+      "image": "/images/blog/2021/07/0727EventX-1024x683.jpg",
+      "tags": [
+        "Fintech",
+        "VR",
+        "創科廣場",
+        "眾創時代"
+      ],
+      "categories": [
+        "Fintech",
+        "VR",
+        "創科廣場",
+        "眾創時代"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e5-8b-92-e7-b4-a2-e8-bb-9f-e4-bb-b6-e6-94-bb-e6-93-8a-e8-82-86-e8-99-90-e4-ba-ba-e5-b7-a5-e6-99-ba-e8-83-bd-e5-bf-ab-e9-80-9f-e6-87-89-e8-ae-8a.md",
+      "title": "勒索軟件攻擊肆虐   人工智能快速應變",
+      "description": "",
+      "date": "2021-07-24T03:21:36.000Z",
+      "image": "/images/blog/2021/07/0723Fortinet-1-1024x789.png",
+      "tags": [
+        "Cyber Security",
+        "Fortinet"
+      ],
+      "categories": [
+        "Cyber Security",
+        "Fortinet"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e7-a5-9e-e5-a5-87-e7-9f-b3-e5-a2-a8-e7-83-af-e6-96-b0-e7-94-a8-e9-80-94-e6-8b-8d-e6-94-9d-e7-b4-b0-e8-83-9e-e9-9b-bb-e6-b5-81-e5-9c-96-e5-83-8f.md",
+      "title": "神奇石墨烯新用途   拍攝細胞電流圖像",
+      "description": "",
+      "date": "2021-07-23T03:32:57.000Z",
+      "image": "/images/blog/2021/07/heart_image750px.jpg",
+      "tags": [
+        "Biological Technology",
+        "創科廣場",
+        "醫療創新"
+      ],
+      "categories": [
+        "Biological Technology",
+        "創科廣場",
+        "醫療創新"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e5-82-b3-e6-84-9f-e8-87-aa-e5-8b-95-e6-8e-a7-e5-88-b6-e6-97-a5-e6-96-b0-e6-9c-88-e7-95-b0-e5-8a-a9-e6-ae-98-e9-9a-9c-e8-bb-8a-e6-89-8b-e9-a7-95-e8-b6-85-e7-b4-9a-e8-b7-91-e8-bb-8a.md",
+      "title": "傳感自動控制日新月異   助殘障車手駕超級跑車",
+      "description": "",
+      "date": "2021-07-23T01:16:21.000Z",
+      "image": "/images/blog/2021/07/0723arrow01.jpg",
+      "tags": [
+        "Arrow",
+        "Smart Car",
+        "Smart City",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Arrow",
+        "Smart Car",
+        "Smart City",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e6-8a-95-e8-b3-87-e6-8f-9b-e9-a6-ac.md",
+      "title": "投資換馬",
+      "description": "",
+      "date": "2021-07-23T01:02:08.000Z",
+      "image": "/images/blog/2021/07/0723J.jpg",
+      "tags": [
+        "Smart Car",
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "categories": [
+        "Smart Car",
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e8-90-ac-e5-9c-8b-e6-95-b8-e6-93-9a-e9-80-b2-e8-bb-8d-e5-a4-a7-e9-a6-ac-e6-9f-94-e4-bd-9b-e5-b7-9e-e5-bb-ba-e6-95-b8-e6-93-9a-e4-b8-ad-e5-bf-83.md",
+      "title": "萬國數據進軍大馬   柔佛州建數據中心",
+      "description": "",
+      "date": "2021-07-22T01:00:07.000Z",
+      "image": "/images/blog/2021/07/0720GDS-1-1024x683.jpg",
+      "tags": [
+        "DataHOUSE",
+        "Digital Transformation",
+        "創科廣場",
+        "數碼轉型"
+      ],
+      "categories": [
+        "DataHOUSE",
+        "Digital Transformation",
+        "創科廣場",
+        "數碼轉型"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/jabra-panacast-50-e9-85-8d-e5-90-88-e6-96-b0-e5-b8-b8-e6-85-8b-e6-8e-a8-e5-87-ba-e8-a6-96-e8-a8-8a-e8-a8-ad-e5-82-99.md",
+      "title": "Jabra PanaCast 50配合新常態推出視訊設備",
+      "description": "",
+      "date": "2021-07-21T17:03:12.000Z",
+      "image": "/images/blog/2021/07/0721JabraPanacast_01-1024x683.jpg",
+      "tags": [
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/datality-lab-e9-81-8b-e7-94-a8aws-e6-8a-80-e8-a1-93-e5-bb-ba-e7-ab-8bai-e6-bc-94-e8-ac-9b-e8-a8-93-e7-b7-b4-e7-b3-bb-e7-b5-b1.md",
+      "title": "Datality Lab 運用AWS技術建立AI演講訓練系統",
+      "description": "",
+      "date": "2021-07-21T03:29:16.000Z",
+      "image": "/images/blog/2021/07/DatalityLab.jpg",
+      "tags": [
+        "Artificial Intelligence",
+        "Chatbot",
+        "EdTech",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Chatbot",
+        "EdTech",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/deepmind-e9-96-8b-e6-ba-90-e4-bb-a3-e7-a2-bc-e7-ac-ac-e4-ba-8c-e4-bb-a3alphafold-e9-80-a0-e7-a6-8f-e7-97-85-e4-ba-ba.md",
+      "title": "DeepMind開源代碼   第二代AlphaFold造福病人",
+      "description": "",
+      "date": "2021-07-20T02:06:00.000Z",
+      "image": "/images/blog/2021/07/7020deepmind01-1024x742.jpg",
+      "tags": [
+        "Artificial Intelligence",
+        "Biological Technology",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Biological Technology",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/ibm-e5-8a-a0-e9-80-9f-e8-bd-89-e5-90-91-e6-b7-b7-e5-90-88-e9-9b-b2-e9-80-a3-e7-92-b0-e6-94-b6-e8-b3-bc-e5-8a-a0-e5-bc-b7-e8-ab-ae-e8-a9-a2.md",
+      "title": "IBM加速轉向混合雲   連環收購加強諮詢",
+      "description": "",
+      "date": "2021-07-20T01:48:15.000Z",
+      "image": "/images/blog/2021/07/0720ibm-1-1024x529.jpeg",
+      "tags": [
+        "Artificial Intelligence",
+        "IBM"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "IBM"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e5-9c-8b-e8-bb-92-e9-ab-98-e7-a7-91-e5-8a-a9-e5-a4-a7-e7-9c-be-e9-9b-bb-e5-8b-95-e8-bb-8a-e9-96-8b-e7-99-bc-e6-a8-99-e5-87-96-e9-9b-bb-e6-b1-a0-e9-99-8d-e6-88-90-e6-9c-ac.md",
+      "title": "國軒高科助大眾電動車    開發標凖電池降成本",
+      "description": "",
+      "date": "2021-07-19T01:17:59.000Z",
+      "image": "/images/blog/2021/07/0720volk01.jpg",
+      "tags": [
+        "Artificial Intelligence",
+        "Charger",
+        "Smart Car",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "Charger",
+        "Smart Car",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e9-87-8d-e8-b3-9e-e7-a0-b4-e8-a7-a3-e6-95-b8-e5-ad-b8-e9-9b-a3-e9-a1-8c-e9-9b-bb-e8-85-a6-e6-94-bb-e9-97-9c-e6-8e-a8-e6-95-b2-e7-84-a1-e9-96-80.md",
+      "title": "重賞破解數學難題   電腦攻關推敲無門",
+      "description": "",
+      "date": "2021-07-18T15:37:34.000Z",
+      "image": "/images/blog/2021/07/0716Bakuage01-1024x256.png",
+      "tags": [
+        "Artificial Intelligence",
+        "EdTech",
+        "STEAM",
+        "STEM",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "EdTech",
+        "STEAM",
+        "STEM",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e8-99-9b-e6-93-ac-e6-a1-8c-e9-9d-a2-e9-a3-9b-e5-85-a5-e7-99-be-e5-a7-93-e5-ae-b6-microsoft-e6-8e-a8-e9-9b-b2-e7-ab-af-e9-9b-bb-e8-85-a6.md",
+      "title": "虛擬桌面飛入百姓家   Microsoft推雲端電腦",
+      "description": "",
+      "date": "2021-07-16T02:28:42.000Z",
+      "image": "/images/blog/2021/07/0716inspire01.jpg",
+      "tags": [
+        "Azure",
+        "Cloud computing",
+        "Microsoft",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Azure",
+        "Cloud computing",
+        "Microsoft",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/mcu-e4-b8-96-e4-bb-a3.md",
+      "title": "MCU世代",
+      "description": "",
+      "date": "2021-07-16T01:19:32.000Z",
+      "image": "/images/blog/2021/07/0716J.png",
+      "tags": [
+        "MCU",
+        "Robotics",
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "categories": [
+        "MCU",
+        "Robotics",
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e9-9b-bb-e5-95-86-e6-a5-ad-e5-8b-99-e9-80-86-e5-8b-a2-e4-b8-8a-e5-8d-87-e5-af-a6-e6-99-82-e6-95-b8-e6-93-9a-e6-8e-88-e4-bf-a1-e8-9e-8d-e8-b3-87.md",
+      "title": "電商業務逆勢上升   實時數據授信融資",
+      "description": "",
+      "date": "2021-07-15T17:12:38.000Z",
+      "image": "/images/blog/2021/07/anson_fundpark-200x300.jpg",
+      "tags": [
+        "Fintech",
+        "創科廣場",
+        "金融創新"
+      ],
+      "categories": [
+        "Fintech",
+        "創科廣場",
+        "金融創新"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e7-a7-91-e5-ad-b8-e5-9c-92-e6-88-90waic-e5-88-86-e6-9c-83-e5-a0-b4-e6-b8-af-e6-bb-ac-e9-80-a3-e7-b7-9a-e6-8e-a8-e5-8b-95-e4-ba-ba-e5-b7-a5-e6-99-ba-e8-83-bd.md",
+      "title": "科學園成WAIC分會場   港滬連線推動人工智能",
+      "description": "",
+      "date": "2021-07-15T01:30:45.000Z",
+      "image": "/images/blog/2021/07/0712wiachk01-1024x683.jpg",
+      "tags": [
+        "HKSTP",
+        "Robotics",
+        "創科圈",
+        "創科廣場",
+        "眾創時代",
+        "科學園",
+        "香港科技園"
+      ],
+      "categories": [
+        "HKSTP",
+        "Robotics",
+        "創科圈",
+        "創科廣場",
+        "眾創時代",
+        "科學園",
+        "香港科技園"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e7-84-a1-e4-ba-ba-e6-8e-a2-e6-b8-ac-e8-88-b9-e5-ae-8c-e6-88-90-e8-99-95-e5-a5-b3-e8-88-aa-e4-bd-8e-e6-88-90-e6-9c-ac-e7-b9-aa-e8-a3-bd-e6-b7-b1-e6-b5-b7-e5-9c-b0-e5-9c-96.md",
+      "title": "無人探測船完成處女航   低成本繪製深海地圖",
+      "description": "",
+      "date": "2021-07-14T02:23:12.000Z",
+      "image": "/images/blog/2021/07/0714Saildrone01-1024x683.jpg",
+      "tags": [
+        "DataHOUSE",
+        "創科廣場",
+        "眾創時代"
+      ],
+      "categories": [
+        "DataHOUSE",
+        "創科廣場",
+        "眾創時代"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e5-95-86-e6-b9-af-e6-89-93-e9-80-a0-e8-b6-85-e5-a4-a7-e5-9e-8b-e8-a3-9d-e7-bd-ae-ai-e5-b0-8d-e6-92-9e-e6-a9-9f-e7-99-bc-e7-8f-be-e6-96-b0-e6-99-ba-e6-85-a7.md",
+      "title": "商湯打造超大型裝置   AI對撞機發現新智慧",
+      "description": "",
+      "date": "2021-07-13T03:18:19.000Z",
+      "image": "/images/blog/2021/07/0713sensetime01.jpg",
+      "tags": [
+        "Artificial Intelligence",
+        "SenseTime",
+        "創科廣場",
+        "商湯",
+        "眾創時代"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "SenseTime",
+        "創科廣場",
+        "商湯",
+        "眾創時代"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/it-e7-ae-a1-e7-90-86-e6-9c-8d-e5-8b-99-e8-89-af-e8-8e-a0-e4-b8-8d-e9-bd-8a-e6-bc-8f-e6-b4-9e-e5-a4-a7-e9-96-8b-e5-a6-82-e7-84-a1-e4-ba-ba-e4-b9-8b-e5-a2-83.md",
+      "title": "IT管理服務良莠不齊   漏洞大開如無人之境",
+      "description": "",
+      "date": "2021-07-13T00:33:10.000Z",
+      "image": "/images/blog/2021/07/0713sopho01.jpg",
+      "tags": [
+        "Cyber Security",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Cyber Security",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e6-9b-b8-e5-b1-95-e9-a6-96-e8-a8-ad-e3-80-8c-e7-b7-9a-e4-b8-8a-e5-ad-b8-e5-a0-82-e3-80-8d-e9-a6-96-e5-ae-b6-e7-b7-9a-e4-b8-8a-e5-ad-b8-e6-a0-a1-e7-99-bb-e5-a0-b4.md",
+      "title": "書展首設「線上學堂」  首家線上學校登場",
+      "description": "",
+      "date": "2021-07-12T04:01:01.000Z",
+      "image": "/images/blog/2021/07/0713Snapask01-1024x634.png",
+      "tags": [
+        "EdTech",
+        "創科廣場",
+        "眾創時代"
+      ],
+      "categories": [
+        "EdTech",
+        "創科廣場",
+        "眾創時代"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/windows-11-e4-bb-bf-e7-9c-9f-e7-aa-81-e7-a0-b4-arm-e8-99-95-e7-90-86-e5-99-a8-e7-99-bb-e5-a0-82-e5-85-a5-e5-ae-a4.md",
+      "title": "Windows 11仿真突破   ARM處理器登堂入室",
+      "description": "",
+      "date": "2021-07-10T03:21:41.000Z",
+      "image": "/images/blog/2021/07/0709windows-1024x768.jpg",
+      "tags": [
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e9-80-81-e8-b2-a8-e6-a9-9f-e6-a2-b0-e4-ba-ba-e4-ba-ae-e7-9b-b8-e6-9d-b1-e4-ba-ac-e6-8f-90-e4-be-9b-e5-8d-b3-e6-97-a5-e7-84-a1-e6-8e-a5-e8-a7-b8-e9-80-81-e8-b2-a8.md",
+      "title": "送貨機械人亮相東京   提供即日無接觸送貨",
+      "description": "",
+      "date": "2021-07-09T02:35:28.000Z",
+      "image": "/images/blog/2021/07/0709fedex03-1024x683.png",
+      "tags": [
+        "Robotics",
+        "企業轉型",
+        "創科廣場"
+      ],
+      "categories": [
+        "Robotics",
+        "企業轉型",
+        "創科廣場"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e9-9b-a3-e6-b6-bc-e7-86-b1-e8-a1-80.md",
+      "title": "難涼熱血",
+      "description": "",
+      "date": "2021-07-09T01:46:39.000Z",
+      "image": "/images/blog/2021/07/XUAN.jpg",
+      "tags": [
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "categories": [
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e4-ba-ba-e5-b7-a5-e6-99-ba-e8-83-bd-e7-ae-a1-e7-90-86-e5-9f-ba-e5-bb-ba-e5-8a-a0-e9-80-9f-e4-bc-81-e6-a5-ad-e6-95-b8-e7-a2-bc-e5-8c-96-e8-bd-89-e5-9e-8b.md",
+      "title": "人工智能管理基建  加速企業數碼化轉型",
+      "description": "",
+      "date": "2021-07-08T03:23:01.000Z",
+      "image": "/images/blog/2021/07/CPCP03300721-1024x682.jpg",
+      "tags": [
+        "AloT",
+        "CPC",
+        "PwC"
+      ],
+      "categories": [
+        "AloT",
+        "CPC",
+        "PwC"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e6-b7-b7-e5-90-88-e5-b7-a5-e4-bd-9c-e6-96-b0-e8-b6-a8-e5-8b-a2-e8-81-af-e6-83-b3-e6-8e-a8-e5-a4-9a-e6-ac-be-e7-ad-86-e9-9b-bb-e5-8f-8a-e9-85-8d-e4-bb-b6.md",
+      "title": "混合工作新趨勢   聯想推多款筆電及配件",
+      "description": "",
+      "date": "2021-07-07T02:38:06.000Z",
+      "image": "/images/blog/2021/07/0707LENOVO-2-1024x768.jpg",
+      "tags": [
+        "Lenovo",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "Lenovo",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e6-99-ba-e6-85-a7t-e6-81-a4-e9-85-8d-e5-90-88-5g-e6-8a-80-e8-a1-93-e9-81-a0-e7-a8-8b-e9-a0-90-e6-b8-ac-e5-bf-83-e8-87-9f-e7-97-85-e7-99-bc-e6-a9-9f-e7-8e-87.md",
+      "title": "智慧T恤配合 5G 技術    遠程預測心臟病發機率",
+      "description": "",
+      "date": "2021-07-07T01:02:37.000Z",
+      "image": "/images/blog/2021/07/0706zte01-200x300.jpg",
+      "tags": [
+        "Biological Technology",
+        "創科廣場",
+        "醫療創新"
+      ],
+      "categories": [
+        "Biological Technology",
+        "創科廣場",
+        "醫療創新"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e7-92-b0-e6-b3-95-e5-96-ae-e8-bb-8a-e8-b3-bd-e7-a7-91-e6-8a-80-e5-89-b5-e6-96-b0-e6-95-b8-e7-a2-bc-e5-ad-bf-e7-94-9f-e6-8f-90-e6-98-87-e8-a7-80-e7-9c-be-e9-ab-94-e9-a9-97.md",
+      "title": "環法單車賽科技創新    數碼孿生提昇觀眾體驗",
+      "description": "",
+      "date": "2021-07-06T02:38:49.000Z",
+      "image": "/images/blog/2021/07/0706ntt01-1024x622.jpg",
+      "tags": [
+        "AR",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "categories": [
+        "AR",
+        "創科廣場",
+        "新科技速遞"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e5-a4-a7-e5-b0-88-e7-94-9f-e6-a9-9f-e6-a2-b0-e4-ba-ba-e5-a4-a7-e8-b3-bd-e4-bb-bf-e5-8f-a4-e4-bb-a3-e6-8a-95-e5-a3-ba-e6-af-94-e8-a9-a6.md",
+      "title": "大專生機械人大賽    仿古代投壺比試",
+      "description": "",
+      "date": "2021-07-06T01:33:44.000Z",
+      "image": "/images/blog/2021/07/0706hkstp01-1024x678.jpg",
+      "tags": [
+        "Artificial Intelligence",
+        "CU",
+        "HKSTP",
+        "Robotics",
+        "創科圈",
+        "創科廣場",
+        "眾創時代",
+        "科學園",
+        "香港科技園"
+      ],
+      "categories": [
+        "Artificial Intelligence",
+        "CU",
+        "HKSTP",
+        "Robotics",
+        "創科圈",
+        "創科廣場",
+        "眾創時代",
+        "科學園",
+        "香港科技園"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e6-b8-af-e7-94-a2-e9-86-ab-e5-ad-b8-e5-bd-b1-e5-83-8f-e5-88-9d-e5-89-b5-e5-9b-9e-e6-b8-af-e7-94-9f-e7-94-a2-e9-96-8b-e6-8b-93-e5-b8-82-e5-a0-b4.md",
+      "title": "港產醫學影像初創   回港生產開拓市場",
+      "description": "",
+      "date": "2021-07-02T02:50:56.000Z",
+      "image": "/images/blog/2021/06/TimeMedical-1.jpg",
+      "tags": [
+        "Biological Technology",
+        "HKSTP",
+        "創科圈",
+        "新科技速遞",
+        "科學園"
+      ],
+      "categories": [
+        "Biological Technology",
+        "HKSTP",
+        "創科圈",
+        "新科技速遞",
+        "科學園"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e5-83-b9-e5-80-bc3000-e5-84-84-e7-9a-84ip.md",
+      "title": "價值3000億的IP",
+      "description": "",
+      "date": "2021-07-02T01:31:44.000Z",
+      "image": "/images/blog/2021/06/0702J-219x300.jpg",
+      "tags": [
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "categories": [
+        "創科廣場",
+        "電腦J手記"
+      ],
+      "author": "Sharon"
+    },
+    {
+      "key": "content/posts/2021/07/e6-95-b8-e5-ad-97-e8-b2-a8-e5-b9-a3-e6-88-b0-e4-b8-80-e8-a7-b8-e5-8d-b3-e7-99-bc-e7-be-8e-e5-9c-8b-e5-86-8d-e6-88-90-e7-ab-8b-e5-a4-a7-e8-a6-8f-e6-a8-a1-e5-9f-ba-e9-87-91.md",
+      "title": "數字貨幣戰一觸即發   美國再成立大規模基金",
+      "description": "",
+      "date": "2021-07-01T00:48:13.000Z",
+      "image": "/images/blog/2021/07/0629Horowitz-300x300.jpg",
+      "tags": [
+        "創科廣場",
+        "金融創新"
+      ],
+      "categories": [
+        "創科廣場",
+        "金融創新"
+      ],
+      "author": "Sharon"
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "items": [
+    {
+      "key": "content/posts/2025/09/20250921weather.md",
+      "title": "樺加沙直撲香港？五大天氣AI預報對比",
+      "description": "香港天文台比較五種人工智能天氣預報模式，預測樺加沙將直撲香港。",
+      "date": "2025-09-21T03:00:00.000Z",
+      "image": "/images/blog/2025/07/20250701weather01.webp",
+      "tags": [
+        "人工智能",
+        "天氣預報",
+        "AI預測天氣",
+        "樺加沙襲港",
+        "天文台預測颱風",
+        "颱風測測",
+        "超強颱風樺加沙"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "智慧城市"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250918ibm.md",
+      "title": "IBM「AI優先」策略助港企業迎未來",
+      "description": "IBM 推動香港企業以「AI優先」策略，加速轉型並應對挑戰，打造可持續未來。",
+      "date": "2025-09-18T08:00:00.000Z",
+      "image": "/images/blog/2025/09/20250918ibm1.webp",
+      "tags": [
+        "人工智能",
+        "AI技術",
+        "數碼轉型",
+        "IBM",
+        "IBV",
+        "GraniteAI",
+        "LLM",
+        "AI優先文化",
+        "IBM年度報告2024",
+        "IBM年度報告"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "香港創科",
+        "數碼科技"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250918greentech.md",
+      "title": "綠色科技峰會2025聚焦亞洲氣候韌性與自然資本創新",
+      "description": "探討氣候風險、生物多樣性與商業韌性的深度連結，揭示如何利用自然資本推動可持續未來。",
+      "date": "2025-09-18T07:00:00.000Z",
+      "image": "/images/blog/2025/09/20250918greentech1.webp",
+      "tags": [
+        "綠色科技",
+        "氣候韌性",
+        "自然資本",
+        "greentechsubmit2025",
+        "greentechsummit",
+        "greentech",
+        "香港海洋公園富勒頓酒店",
+        "香港海洋公園",
+        "海洋公園",
+        "富勒頓酒店",
+        "香港科技大學",
+        "科大",
+        "HKUST",
+        "綠色科技峰會2025",
+        "綠色科技峰會",
+        "可持續發展",
+        "海洋公園可持續發展研究所",
+        "regtech",
+        "miotech",
+        "Regulatory-Technology",
+        "GoImapact",
+        "萬物相連",
+        "法國巴黎銀行",
+        "BNP",
+        "BNP-Paribs",
+        "海洋公園體驗",
+        "Everything-is-Connected'"
+      ],
+      "categories": [
+        "綠色金融",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250918lenovo.md",
+      "title": "Lenovo 與數碼港合作推動香港初創發展",
+      "description": "Lenovo 與數碼港簽署備忘錄，攜手支持香港初創企業拓展國際市場。",
+      "date": "2025-09-18T06:00:00.000Z",
+      "image": "/images/blog/2025/09/20250918lenovo1.webp",
+      "tags": [
+        "人工智能",
+        "初創企業",
+        "科技合作"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "香港創科",
+        "數碼港／Cyberport"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250918gov.md",
+      "title": "2025施政報告聚焦創科發展",
+      "description": "《2025年施政報告》創新科技發展的政策方向及措施。",
+      "date": "2025-09-17T19:00:00.000Z",
+      "image": "/images/blog/2025/09/20250918gov1.webp",
+      "tags": [
+        "人工智能",
+        "科技政策",
+        "香港創科"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250917iwg.md",
+      "title": "人工智能浪潮：年輕一代引領職場變革",
+      "description": "探討Z世代如何通過人工智能工具推動職場效率提升，並分析其對跨世代合作與企業發展的影響。",
+      "date": "2025-09-17T05:00:00.000Z",
+      "image": "/images/blog/2025/09/20250917iwg1.webp",
+      "tags": [
+        "人工智能",
+        "職場發展",
+        "數碼轉型"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250917wtia.md",
+      "title": "港企積極投資AI 八成企業見顯著回報",
+      "description": "香港無線科技商會公布「亞洲智慧創新大獎業界調查 2025」，揭示本地企業在人工智能領域的應用與投資回報。",
+      "date": "2025-09-17T02:00:00.000Z",
+      "image": "/images/blog/2025/09/20250917wtia1.webp",
+      "tags": [
+        "人工智能",
+        "科研成果",
+        "技術轉化"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250916hkpc.md",
+      "title": "生產力局「物流科技博覽2025」助力智慧物流革新",
+      "description": "介紹香港生產力局主辦的「物流科技博覽2025」，匯聚逾60家企業展示創新技術，推動行業效率與可持續發展。",
+      "date": "2025-09-16T06:00:00.000Z",
+      "image": "/images/blog/2025/09/20250916hkpc1.webp",
+      "tags": [
+        "智慧物流",
+        "低空經濟",
+        "ESG",
+        "hkpc",
+        "生產力局"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "綠色科技",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250916ninesmart.md",
+      "title": "玖創物聯網加入數碼港培育計劃 推動智能物管革新",
+      "description": "NineSmart成為數碼港初創培育成員，與戴德梁行合作推進智能物管，並推出AI驅動的機器人解決方案。",
+      "date": "2025-09-16T05:00:00.000Z",
+      "image": "/images/blog/2025/09/20250916ninesmart1.webp",
+      "tags": [
+        "智能物管",
+        "物聯網",
+        "人工智能"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "智慧城市",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250916clackyai.md",
+      "title": "完全AI原生的雲端開發環境Clacky AI",
+      "description": "介紹深圳Clacky AI的創新AI雲端開發環境與技術優勢。",
+      "date": "2025-09-16T03:00:00.000Z",
+      "image": "/images/blog/2025/09/20250916clackyai1.webp",
+      "tags": [
+        "人工智能",
+        "雲運算",
+        "AI/人工智能",
+        "Clacky-AI",
+        "AI-Agent",
+        "Agent",
+        "AWS",
+        "AWS-Tech-Fest",
+        "字節跳動",
+        "AI工作流平台DIFY",
+        "DIFY",
+        "雲開發",
+        "AI-IDE",
+        "IDE",
+        "LLM",
+        "idea轉app",
+        "深圳市人工智慧本土開發平台",
+        "Claude-Code",
+        "AI-Cloud-Development",
+        "ACD",
+        "Context-Window",
+        "VScode",
+        "Context-Engineering",
+        "GitHub",
+        "ClackyAI創始人兼CEO李亞飛",
+        "李亞飛"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250915cyberportdelf.md",
+      "title": "AI驅動數碼娛樂新未來",
+      "description": "AI技術正重塑數碼娛樂產業，DELF 2025展示創新應用並引領未來生活方式。",
+      "date": "2025-09-15T05:00:00.000Z",
+      "image": "/images/blog/2025/09/20250915cyberportdelf1.webp",
+      "tags": [
+        "人工智能",
+        "數碼娛樂",
+        "創新科技",
+        "數碼港/cyberport",
+        "delf",
+        "delf2025",
+        "cyberportdelf2025"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼娛樂",
+        "香港創科",
+        "數碼港/cyberport"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250915smartsensing.md",
+      "title": "AIoT人流統計技術革新「香港車仔展2025」管理",
+      "description": "香港本地創科企業Smart Sensing成功部署AIoT人流統計方案，助力大型活動人流管理。",
+      "date": "2025-09-15T03:00:00.000Z",
+      "image": "/images/blog/2025/09/20250915smartsenging1.webp",
+      "tags": [
+        "人工智能",
+        "智慧城市",
+        "技術應用",
+        "人工智慧物聯網",
+        "物聯網",
+        "AIoT",
+        "香港車仔展2025",
+        "香港車仔展",
+        "smartsensing",
+        "SmartSensing首席執行官鄧建國",
+        "鄧建國",
+        "AIoT人流統計鏡頭",
+        "人流統計鏡頭",
+        "人流統計",
+        "合和酒店",
+        "Smart-EDGE-AIoT-Crowd-Counting",
+        "李鑒泉",
+        "手推車創辦人李鑒泉",
+        "AI+Power2025"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250914hkcert.md",
+      "title": "黑客新武器：AI如何助長網絡攻擊？",
+      "description": "香港網絡安全事故協調中心揭示六大AI新興攻擊手法，呼籲各界提高警覺。",
+      "date": "2025-09-14T06:00:00.000Z",
+      "image": "/images/blog/2025/09/20250914hkcert1.webp",
+      "tags": [
+        "人工智能",
+        "網絡安全/Cyber Security",
+        "網絡攻擊",
+        "HKCERT",
+        "香港網絡安全事故協調中心"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "網絡安全/Cyber Security",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250912spaceodessey.md",
+      "title": "全港首個8K沉浸式VR體驗：《星際危機》登陸灣仔",
+      "description": "全港首個8K沉浸式VR體驗《SPACE ODYSSEY：星際危機》，融合AI與擴展現實技術，提供嶄新娛樂享受。",
+      "date": "2025-09-12T03:00:00.000Z",
+      "image": "/images/blog/2025/09/20250912spaceodyssey1.webp",
+      "tags": [
+        "沉浸式體驗",
+        "科技創新",
+        "虛擬實境"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數字化轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250912cuhk.md",
+      "title": "中大創業日2025：創新成果展示",
+      "description": "中大創業日2025匯聚傑出創業家，呈現多元化技術成果與實踐經驗。",
+      "date": "2025-09-12T01:00:00.000Z",
+      "image": "/images/blog/2025/09/20250912cuhk1.webp",
+      "tags": [
+        "人工智能",
+        "科研成果",
+        "技術轉化",
+        "中大創業日'",
+        "中大",
+        "CUHK",
+        "CU"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "科技教育"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250912samsung.md",
+      "title": "Samsung Galaxy AI 強化私隱防護　用戶數據安全再升級",
+      "description": "Samsung 推出全新 Galaxy AI，融合透明度與裝置端處理技術，讓用戶更好地掌握個人資料。",
+      "date": "2025-09-12T01:00:00.000Z",
+      "image": "/images/blog/2025/09/20250912samsung1.webp",
+      "tags": [
+        "人工智能",
+        "私隱保護",
+        "流動科技",
+        "Samsung",
+        "SamsungGalaxyAI"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "網絡安全/Cyber Security",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250914zentrogene.md",
+      "title": "香港基因檢測新技術革新",
+      "description": "Zentrogene推出雙胎性別鑒定技術，結合NGS平台推動精準醫療發展。",
+      "date": "2025-09-12T01:00:00.000Z",
+      "image": "/images/blog/2025/09/20250912zentrogene1.webp",
+      "tags": [
+        "基因檢測",
+        "精準醫療",
+        "技術革新",
+        "zentrogene",
+        "三愛健康集團"
+      ],
+      "categories": [
+        "Biological Technology",
+        "香港創科",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250911fortress.md",
+      "title": "豐澤推出全港首創高額以舊換新回贈 助用戶輕鬆換新機",
+      "description": "屈臣氏集團旗下豐澤推出創新以舊換新服務，最高可達$7,640回收價，並提供iPhone 17系列預購及抽獎活動。",
+      "date": "2025-09-11T08:00:00.000Z",
+      "image": "/images/blog/2025/09/20250911fortress1.webp",
+      "tags": [
+        "iPhone 17",
+        "以舊換新服務",
+        "屈臣氏集團"
+      ],
+      "categories": [
+        "數碼科技",
+        "香港零售"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250911hkpc.md",
+      "title": "生產力局助正美藥品推動智能製造",
+      "description": "生產力局與正美藥品合作，推動香港生命健康科技產業智能化發展。",
+      "date": "2025-09-11T06:00:00.000Z",
+      "image": "/images/blog/2025/09/20250911hkpc1.webp",
+      "tags": [
+        "人工智能",
+        "智能製造",
+        "生命健康科技"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "綠色科技",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250911workday.md",
+      "title": "本港企業逐步引入AI代理 員工信任成關鍵挑戰",
+      "description": "調查顯示，81%香港員工願意與AI合作，但僅24%接受AI擔任管理者角色，透明度與信任成為企業成功關鍵。",
+      "date": "2025-09-11T04:00:00.000Z",
+      "image": "/images/blog/2025/09/20250911workday1.webp",
+      "tags": [
+        "人工智能",
+        "科研成果",
+        "技術轉化"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250911veeam.md",
+      "title": "Veeam 推出全新軟件設備 引領數據保護革新",
+      "description": "Veeam Software Appliance 提供即時、靈活且安全的數據保護，突破傳統硬件綁定限制，助力企業實現高效部署與網絡韌性。",
+      "date": "2025-09-11T03:00:00.000Z",
+      "image": "/images/blog/2025/09/20250911veeam1.webp",
+      "tags": [
+        "數據保護",
+        "網絡安全",
+        "雲端運算"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "網絡安全/Cyber Security",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250911exhibition.md",
+      "title": "環球資源十月香港展：聚焦電競、AI與世界盃商機",
+      "description": "2025年環球資源十月香港展將涵蓋電競全生態、AI技術應用及2026世界盃周邊產品，吸引逾10萬專業買家。",
+      "date": "2025-09-11T01:00:00.000Z",
+      "image": "/images/blog/2025/09/20250911exhibition1.webp",
+      "tags": [
+        "電競",
+        "人工智能",
+        "世界盃"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "運動及戶外"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250911dell.md",
+      "title": "Dell PowerProtect 解決方案：企業數據保護新趨勢",
+      "description": "Dell Technologies 推出全新 PowerProtect 產品組合，優化數據保護效能並應對網絡威脅挑戰。",
+      "date": "2025-09-10T18:00:00.000Z",
+      "image": "/images/blog/2025/09/20250911dell1.webp",
+      "tags": [
+        "網絡安全/Cyber Security",
+        "數據保護",
+        "雲運算"
+      ],
+      "categories": [
+        "網絡安全/Cyber Security",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250910appleconf.md",
+      "title": "蘋果發布iPhone Air及17系列 首推高血壓監測功能",
+      "description": "蘋果最新iPhone Air及17系列機能提升，首度加入高血壓監測功能，引發市場關注。",
+      "date": "2025-09-10T08:00:00.000Z",
+      "image": "/images/blog/2025/09/20250910appleconf1.webp",
+      "tags": [
+        "人工智能",
+        "數碼科技",
+        "健康監測"
+      ],
+      "categories": [
+        "數碼科技",
+        "香港創科",
+        "智能手機"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250910stemracing.md",
+      "title": "四支港澳學生隊伍晉級2025年Aramco STEM Racing世界總決賽",
+      "description": "來自香港和澳門的四支學生隊伍憑藉創新設計與卓越技能，成功晉級2025年Aramco STEM Racing世界總決賽，將在新加坡聖淘沙島與來自世界各地的頂尖STEM人才同場競技。這是一場展示年輕人才STEM能力的國際盛事。",
+      "date": "2025-09-10T04:00:00.000Z",
+      "image": "/images/blog/2025/09/20250910stemracing1.webp",
+      "tags": [
+        "STEM教育",
+        "國際競賽",
+        "創新科技"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "教育科技",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250910equinix.md",
+      "title": "香港數據中心AI液冷技術新突破",
+      "description": "Equinix、戴爾科技與施耐德電氣合作，在香港部署液體冷卻技術，推動高密度AI運算發展。",
+      "date": "2025-09-10T03:00:00.000Z",
+      "image": "/images/blog/2025/09/20250910equinix1.webp",
+      "tags": [
+        "人工智能",
+        "數據中心",
+        "液體冷卻"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250910redhat.md",
+      "title": "紅帽三度榮登Gartner容器管理領導者 引領雲原生創新浪潮",
+      "description": "紅帽憑藉OpenShift平台，連續三年獲Gartner評為容器管理領導者，並在多雲及雲原生應用領域展現卓越實力。",
+      "date": "2025-09-10T01:00:00.000Z",
+      "image": "/images/blog/2025/09/20250910redhat1.webp",
+      "tags": [
+        "雲原生技術",
+        "容器管理",
+        "混合雲"
+      ],
+      "categories": [
+        "雲運算",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250910wenxin.md",
+      "title": "百度文心大模型X1.1登場 AI能力再攀高峰",
+      "description": "百度最新推出文心大模型X1.1，大幅提升AI事實性及指令遵循能力，並推出助老公益計劃。",
+      "date": "2025-09-10T01:00:00.000Z",
+      "image": "/images/blog/2025/09/20250910wenxin1.webp",
+      "tags": [
+        "人工智能",
+        "科研成果",
+        "技術轉化",
+        "百度文心大模型X1",
+        "百度",
+        "百度文心一言",
+        "文心一言",
+        "baidu"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250909delf.md",
+      "title": "數碼港揭幕2025數碼娛樂領袖論壇：AI科技引領未來",
+      "description": "2025數碼娛樂領袖論壇將於9月12日揭幕，聚焦AI創新應用，探討數碼娛樂新趨勢與產業變革。",
+      "date": "2025-09-09T03:00:00.000Z",
+      "image": "/images/blog/2025/09/20250909delf1.webp",
+      "tags": [
+        "人工智能",
+        "數碼娛樂",
+        "創新科技"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250909hpe.md",
+      "title": "HPE 推出 Mist 代理 AI 技術　革新企業網絡營運",
+      "description": "HPE 推出 Mist 代理 AI 技術，簡化網絡管理並優化用戶體驗，適應現代分散式架構需求。",
+      "date": "2025-09-09T02:00:00.000Z",
+      "image": "/images/blog/2025/09/20250909hpe1.webp",
+      "tags": [
+        "人工智能",
+        "網絡技術",
+        "數碼轉型"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "網絡安全/Cyber Security",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250909cmhk.md",
+      "title": "全球首個6G跨境通信測試成功",
+      "description": "中國移動香港展示全球首個6G開放眾創試驗裝置，實現京港裸眼3D及人工智能通信應用。",
+      "date": "2025-09-09T01:00:00.000Z",
+      "image": "/images/blog/2025/09/20250909cmhk1.webp",
+      "tags": [
+        "6G",
+        "數字經濟",
+        "跨境通信"
+      ],
+      "categories": [
+        "人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250908fortinet.md",
+      "title": "Fortinet 獲評Gartner混合網格防火牆領導者",
+      "description": "Fortinet 在最新Gartner報告中被評為混合網格防火牆（HMF）魔力象限™ 領導者，並在執行能力方面位居首位。",
+      "date": "2025-09-08T01:00:00.000Z",
+      "image": "/images/blog/2025/09/20250908fortinet1.webp",
+      "tags": [
+        "網絡安全",
+        "Gartner 魔力象限",
+        "Fortinet"
+      ],
+      "categories": [
+        "網絡安全/Cyber Security",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250905fhki.md",
+      "title": "香港創新企業家獎2025提名啟動",
+      "description": "表彰創新企業家，推動香港創科環境發展",
+      "date": "2025-09-05T02:00:00.000Z",
+      "image": "/images/blog/2025/09/20250905fhki1.webp",
+      "tags": [
+        "創新企業",
+        "香港工業總會",
+        "華僑銀行",
+        "ESG",
+        "大灣區"
+      ],
+      "categories": [
+        "香港創科",
+        "數碼轉型",
+        "大灣區創科",
+        "科技創業"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250906dyson.md",
+      "title": "Dyson 推出全新家居科技產品，革新清潔與空氣淨化體驗",
+      "description": "Dyson 於柏林舉行全球發佈會，推出新一代吸塵機與空氣清新機，結合突破性技術提升家居生活品質。",
+      "date": "2025-09-05T00:00:00.000Z",
+      "image": "/images/blog/2025/09/20250905dyson01.webp",
+      "tags": [
+        "家居科技",
+        "空氣淨化",
+        "無線吸塵機",
+        "Dyson",
+        "Dyson V16 Piston Animal",
+        "寵物無線吸塵機",
+        " 空氣清新機"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250905huawei.md",
+      "title": "HUAWEI Pura 80：影像與美學的創新之作",
+      "description": "HUAWEI Pura 80 新機型結合尖端影像技術與現代設計，滿足用戶對性能與美學的需求。",
+      "date": "2025-09-04T17:00:00.000Z",
+      "image": "/images/blog/2025/09/20250905huawei1.webp",
+      "tags": [
+        "人工智能",
+        "手機科技",
+        "影像技術"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250904mox.md",
+      "title": "Mox 與 The Club 合作推出創新獎賞計劃",
+      "description": "Mox Bank 與香港電訊旗下會員計劃 The Club 攜手合作，為客戶提供年度新機優惠及電子產品保障計劃等多項精彩獎賞。",
+      "date": "2025-09-04T01:00:00.000Z",
+      "image": "/images/blog/2025/09/20250904mox1.webp",
+      "tags": [
+        "虛擬銀行",
+        "電子商務",
+        "會員獎賞"
+      ],
+      "categories": [
+        "數碼轉型",
+        "金融創新科技/FinTech",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250903delf.md",
+      "title": "數碼港年度論壇聚焦AI創新 開啟數碼娛樂新紀元",
+      "description": "數碼港主辦的「2025 數碼娛樂領袖論壇」將於9月揭幕，匯聚全球科技與創意精英，探索AI在藝術、文化、遊戲等領域的應用潛能。",
+      "date": "2025-09-03T03:00:00.000Z",
+      "image": "/images/blog/2025/09/20250903delf1.webp",
+      "tags": [
+        "人工智能",
+        "數碼轉型",
+        "創意產業",
+        "數碼港/Cyberport"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼娛樂",
+        "智慧城市",
+        "數碼港/Cyberport"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250902boschalibaba.md",
+      "title": "博世與阿里巴巴深化合作 AI賦能數字化創新",
+      "description": "博世與阿里巴巴集團深化戰略合作，以AI和雲技術推動智能座艙、電商業務創新，加速全球市場拓展。",
+      "date": "2025-09-02T07:00:00.000Z",
+      "image": "/images/blog/2025/09/20250902boschalibaba1.webp",
+      "tags": [
+        "人工智能",
+        "科研成果",
+        "技術轉化"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250902spaceodyssey.md",
+      "title": "全港首個8K大空間VR體驗館正式啟用 星際冒險震撼登場",
+      "description": "合和商圈旗下163 QRE推出《SPACE ODYSSEY：星際危機》，結合AI與擴增實境（XR）技術，打造沉浸式太空戰爭冒險。體驗館佔地近4,000呎，提供8K超高清畫質及全手勢操作系統，為玩家帶來前所未有的沉浸感。",
+      "date": "2025-09-02T03:00:00.000Z",
+      "image": "/images/blog/2025/09/20250902spaceodyssey1.webp",
+      "tags": [
+        "虛擬實境",
+        "VR體驗",
+        "科技娛樂"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250902tencent.md",
+      "title": "騰訊雲助「智方便」升級 推動大灣區數碼創新",
+      "description": "騰訊雲透過其TCSAS解決方案（騰訊雲超級應用服務）協助「智方便」平台升級，提升用戶體驗並推動香港公共服務數碼化。",
+      "date": "2025-09-02T02:00:00.000Z",
+      "image": "/images/blog/2025/09/20250902tencent1.webp",
+      "tags": [
+        "數碼轉型",
+        "智慧城市",
+        "香港創科"
+      ],
+      "categories": [
+        "AI/人工智慧",
+        "數碼科技",
+        "大灣區創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250902adyen.md",
+      "title": "AI應用穩步推進 統一商務成零售業新趨勢",
+      "description": "香港消費者對AI應用持保留態度，但零售商正加速投資於AI與統一商務技術，以提升購物體驗及防詐騙能力。",
+      "date": "2025-09-02T01:00:00.000Z",
+      "image": "/images/blog/2025/09/20250902adyen1.webp",
+      "tags": [
+        "人工智能",
+        "零售科技",
+        "數碼轉型"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250901hkstp.md",
+      "title": "深港廣創新集群領航未來：香港科技園的角色與影響",
+      "description": "「深圳─香港─廣州」創新集群登上《2025年全球創新指數》榜首，香港科技園公司推動跨境協作，促進科研成果轉化。",
+      "date": "2025-09-01T06:00:00.000Z",
+      "image": "/images/blog/2025/09/20250901hkstp1.webp",
+      "tags": [
+        "人工智能",
+        "技術轉化",
+        "創新合作"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "香港創科",
+        "大灣區創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250901futu.md",
+      "title": "富途私人財富調查：新晉高淨值人士偏好數碼化與人性化服務模式",
+      "description": "富途私人財富的最新調查顯示，八成新晉高淨值人士青睞結合科技與人性化的財富管理服務。",
+      "date": "2025-09-01T04:00:00.000Z",
+      "image": "/images/blog/2025/09/20250901futu1.webp",
+      "tags": [
+        "人工智能",
+        "財富管理",
+        "數碼轉型"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "金融創新科技/FinTech",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/20250901sophos.md",
+      "title": "亞太地區網絡安全倦怠加劇 AI 成雙刃劍",
+      "description": "最新研究顯示，人工智能（AI）技術在提升網絡安全效率的同時，未經授權使用的「影子 AI」卻帶來新挑戰。",
+      "date": "2025-09-01T03:00:00.000Z",
+      "image": "/images/blog/2025/09/20250901sophos1.webp",
+      "tags": [
+        "人工智能",
+        "網絡安全/Cyber Security (Cyber Security)",
+        "數碼轉型/Digital Transformation"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "網絡安全/Cyber Security",
+        "數碼轉型"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/0901vtc.md",
+      "title": "VTC太陽能車隊揚威國際 勇奪世界冠軍",
+      "description": "香港IVE工程學科團隊自主研發的SOPHIE 8x在2025年世界太陽能車挑戰賽中奪冠，展現創新實力。",
+      "date": "2025-09-01T00:00:00.000Z",
+      "image": "/images/blog/2025/09/20250901vtc1.webp",
+      "tags": [
+        "太陽能科技",
+        "創新設計",
+        "可持續發展"
+      ],
+      "categories": [
+        "新能源",
+        "香港創科",
+        "智慧交通"
+      ],
+      "author": "Sharon Suen"
+    },
+    {
+      "key": "content/posts/2025/09/datachallenge.md",
+      "title": "港隊在滬港數據競賽奪兩大獎項 展現智慧科技實力",
+      "description": "香港隊伍在 「數據要素 x 滬港合作開放數據競賽 2025」 中勇奪殊榮，展現數據創新應用潛力。",
+      "date": "2025-09-01T00:00:00.000Z",
+      "image": "/images/blog/2025/09/20250901datachallenge1.webp",
+      "tags": [
+        "數據創新",
+        "智慧科技",
+        "滬港合作"
+      ],
+      "categories": [
+        "AI/人工智能",
+        "數碼轉型",
+        "香港創科"
+      ],
+      "author": "Sharon Suen"
+    }
+  ]
+}
