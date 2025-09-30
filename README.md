@@ -1,6 +1,6 @@
 # AI-Assisted Content Editing & Delivery Platform
 
-![Workflow Diagram](workflow%20diagram.jpeg)
+![Architecture Diagram](IT_Square.png)
 
 ---
 
@@ -42,7 +42,8 @@ We built an **AI-assisted workflow** integrated with AWS services:
 ---
 
 ## 4. AWS Technologies Used
-![Architecture Diagram](IT_Square.png)
+
+![Workflow Diagram](workflow%20diagram.jpeg)
 
 - **Amazon S3** – Content storage with lifecycle policies  
 - **AWS Lambda** – Event-driven indexing and validation  
@@ -63,3 +64,6 @@ We built an **AI-assisted workflow** integrated with AWS services:
 - **Fact-checking & compliance automation**  
 - **Integration with social media and enterprise tools**  
 - **Enhanced UI/UX dashboards for editors**  
+
+## 6. Demo Site
+- **[Try this demo site: it-square.hk](https://it-square.hk)
